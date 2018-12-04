@@ -9,49 +9,44 @@ public class PositionObjects : MonoBehaviour
 
 	void Awake()
 	{
-		GameObject[] lights = new GameObject[30];
-		GameObject ob = GameObject.FindWithTag("Light");
 
-		for(int i = 0; i < 30; i++)
-		{
-			float radius = 20;
-			float theta = Random.Range(0, 360) * Mathf.Deg2Rad;
-			float phi = Random.Range(0, 360) * Mathf.Deg2Rad;
+		GameObject star = GameObject.FindWithTag("Star");
 
-			float x = radius * Mathf.Cos(theta) * Mathf.Sin(phi);
-			float y = radius * Mathf.Cos(phi);
-			float z = radius * Mathf.Sin(theta) * Mathf.Cos(phi);
-			
-			GameObject obj = Instantiate(ob, new Vector3(x,y,z),Quaternion.identity);
-			
-			Component halo = obj.GetComponent("Halo");
+		float radius = 20;
+		float theta = Random.Range(0, 360) * Mathf.Deg2Rad;
+		float phi = Random.Range(0, 360) * Mathf.Deg2Rad;
 
-			halo.GetType().GetProperty("enabled").SetValue(halo, true,null);
+		float x = radius * Mathf.Cos(theta) * Mathf.Sin(phi);
+		float y = radius * Mathf.Cos(phi);
+		float z = radius * Mathf.Sin(theta) * Mathf.Cos(phi);
+
+		star.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+
+		star.transform.position = new Vector3(x, y, z);
+
+		GameObject[] lights = new GameObject[100];
 		
+		for (int i = 0; i < 100; i++)
+		{
+			float radius1 = 20;
+			float theta1 = Random.Range(0, 360) * Mathf.Deg2Rad;
+			float phi1 = Random.Range(0, 360) * Mathf.Deg2Rad;
+
+			float x1 = radius1 * Mathf.Cos(theta1) * Mathf.Sin(phi1);
+			float y1 = radius1 * Mathf.Cos(phi1);
+			float z1 = radius1 * Mathf.Sin(theta1) * Mathf.Cos(phi1);
+
+			GameObject obj = Instantiate(star, new Vector3(x1, y1, z1), Quaternion.identity);
+
 			obj.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
-			obj.gameObject.tag = "Light";
+
+			obj.gameObject.tag = "Star";
 
 			lights[i] = obj;
 
 		}
 
-		GameObject[] allSpheres = GameObject.FindGameObjectsWithTag("Star");
-		
 
-		foreach (var sphere in allSpheres)
-		{
-			float radius = 20;
-			float theta = Random.Range(0,360) * Mathf.Deg2Rad;
-			float phi = Random.Range(0,360) * Mathf.Deg2Rad;
-
-			float x = radius * Mathf.Cos(theta) * Mathf.Sin(phi);
-			float y = radius * Mathf.Cos(phi);
-			float z = radius * Mathf.Sin(theta) * Mathf.Cos(phi);
-
-			sphere.transform.localScale  = new Vector3(0.1f,0.1f,0.1f);
-			
-			sphere.transform.position = new Vector3(x, y, z);
-		}
 	}
 	// Use this for initialization
 	void Start()
