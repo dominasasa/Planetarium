@@ -1,0 +1,732 @@
+[
+    {
+        "name": "Sun",
+        "summary": "The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers (864,000 miles), or 109 times that of Earth, and its mass is about 330,000 times that of Earth. It accounts for about 99.86% of the total mass of the Solar System.\nRoughly three quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron.The Sun is a G-type main-sequence star (G2V) based on its spectral class. As such, it is informally and not completely accurately referred to as a yellow dwarf (its light is closer to white than yellow). It formed approximately 4.6 billion years ago from the gravitational collapse of matter within a region of a large molecular cloud. Most of this matter gathered in the center, whereas the rest flattened into an orbiting disk that became the Solar System. The central mass became so hot and dense that it eventually initiated nuclear fusion in its core. It is thought that almost all stars form by this process.\nThe Sun is roughly middle-aged; it has not changed dramatically for more than four billion years, and will remain fairly stable for more than another five billion years. It currently fuses about 600 million tons of hydrogen into helium every second, converting 4 million tons of matter into energy every second as a result. This energy, which can take between 10,000 and 170,000 years to escape from its core, is the source of the Sun's light and heat. In about 5 billion years, when hydrogen fusion in its core has diminished to the point at which the Sun is no longer in hydrostatic equilibrium, its core will undergo a marked increase in density and temperature while its outer layers expand to eventually become a red giant. It is calculated that the Sun will become sufficiently large to engulf the current orbits of Mercury and Venus, and render Earth uninhabitable. After this, it will shed its outer layers and become a dense type of cooling star known as a white dwarf, and no longer produce energy by fusion, but still glow and give off heat from its previous fusion.\nThe enormous effect of the Sun on Earth has been recognized since prehistoric times, and the Sun has been regarded by some cultures as a deity. The synodic rotation of Earth and its orbit around the Sun are the basis of solar calendars, one of which is the predominant calendar in use today.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sun_white.jpg/1000px-Sun_white.jpg"
+    },
+    {
+        "name": "Alpha Andromedae",
+        "summary": "Alpha Andromedae (α Andromedae, abbreviated Alpha And or α And), also named Alpheratz, is located 97 light-years from the Sun and is the brightest star in the constellation of Andromeda. Located immediately northeast of the constellation of Pegasus, it is the upper left star of the Great Square of Pegasus.\nAlthough it appears to the naked eye as a single star, with overall apparent visual magnitude +2.06, it is actually a binary system composed of two stars in close orbit. The chemical composition of the brighter of the two stars is unusual as it is a mercury-manganese star whose atmosphere contains abnormally high levels of mercury, manganese, and other elements, including gallium and xenon. It is the brightest mercury-manganese star known.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alpheratz.gif"
+    },
+    {
+        "name": "Beta Cassiopeiae",
+        "summary": "Beta Cassiopeiae (β Cassiopeiae, abbreviated Beta Cas or β Cas), also named Caph, is a Delta Scuti variable star in the constellation of Cassiopeia. It is a giant star belonging to the spectral class F2. The white star of second magnitude (+2.27 mag) has an absolute magnitude of +1.16 mag.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cassiopeia_constellation_map.svg/1000px-Cassiopeia_constellation_map.svg.png"
+    },
+    {
+        "name": "Gamma Pegasi",
+        "summary": "Gamma Pegasi (γ Pegasi, abbreviated Gamma Peg or γ Peg), also named Algenib, is a star in the constellation of Pegasus, located at the southeast corner of the asterism known as the Great Square. The average apparent visual magnitude of +2.84 puts this at fourth place among the brightest stars in the constellation. The distance to this star has been measured using the parallax technique, yielding a value of roughly 390 light-years (120 parsecs) with a margin of error of 5%.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pegasus_constellation_map.svg/1000px-Pegasus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Phoenicis",
+        "summary": "Alpha Phoenicis (α Phoenicis, abbreviated Alpha Phe or α Phe), also named Ankaa, is the brightest star in the constellation of Phoenix.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Phoenix_constellation_map.svg/1000px-Phoenix_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Cassiopeiae",
+        "summary": "Alpha Cassiopeiae (α Cassiopeiae, abbreviated Alpha Cas, α Cas), also named Schedar, is a second magnitude star in the constellation of Cassiopeia.  Though listed as the \"alpha star\" by Johann Bayer, α Cas's visual brightness closely rivals the 'beta' (β) star in the constellation (Beta Cassiopeiae, also named Caph) and it may appear marginally brighter or dimmer, depending on which passband is used.  However, recent calculations from NASA's WISE telescope confirm that α Cas is the brightest in Cassiopeia, with an apparent magnitude of 2.240. Its absolute magnitude is 18 times greater than β Cas, although it is located farther away from the Sun (228 light years versus 54).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cassiopeia_constellation_map.svg/1000px-Cassiopeia_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Ceti",
+        "summary": "Beta Ceti (β Ceti, abbreviated Beta Cet, β Cet), also named Diphda, is the brightest star in the constellation of Cetus. Although designated 'beta', it is actually brighter than the 'alpha' star in the constellation (Alpha Ceti). This orange giant is easy to identify due to its location in an otherwise dark section of the celestial sphere. Based on parallax measurements, it lies at an estimated distance of 96.3 light-years (29.5 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cetus_constellation_map.svg/1000px-Cetus_constellation_map.svg.png"
+    },
+    {
+        "name": "HD 4628",
+        "summary": "HD 4628 (96 G. Piscium) is a main sequence star in the equatorial constellation of Pisces. It has a spectral classification of K2.5 V and an effective temperature of 5,829 K, giving it an orange-red hue with a slightly smaller mass and girth than our Sun. HD 4628 lies at a distance of approximately 24.3 light years from the Sun. The apparent magnitude is just sufficient for this star to be viewed with the unaided eye. The star appears to be slightly older than our Sun—approximately 5.4 billion years old. The surface activity is low and, based upon the detection of UV emission, it may have a relatively cool corona with a temperature of one million K.The star has a relatively high proper motion of 1.4″ per year and is moving in our general direction with a radial velocity of −10.8 km/s. HD 4628 will make its closest approach to the Sun in about 32,000 years, when it comes within 20 ly (7.3 pc). No definitive companion has yet been found in orbit around this star. In 1958 it was thought to have stellar companion that was also a flare star, but this was subsequently disproved.",
+        "imgLink": ""
+    },
+    {
+        "name": "Van Maanen 2",
+        "summary": "Van Maanen 2 (van Maanen's Star) is a white dwarf. It is a dense, compact stellar remnant that is no longer generating energy, having about 68% of the Sun's mass but only 1% of the Sun's radius. Out of the white dwarfs known, it is, at 13.9 light-years, the third closest to the Sun, after Sirius B and Procyon B, in that order, and the closest known solitary white dwarf. Discovered in 1917 by Dutch–American astronomer Adriaan van Maanen, Van Maanen 2 was the third white dwarf identified, after 40 Eridani B and Sirius B, and the first that was not a member of a multi-star system. A spectrographic plate made in 1917 shows evidence of planetary matter around the star.",
+        "imgLink": ""
+    },
+    {
+        "name": "Gamma Cassiopeiae",
+        "summary": "Gamma Cassiopeiae, Latinized from γ Cassiopeiae, is a star at the center of the distinctive \"W\" asterism in the northern circumpolar constellation of Cassiopeia. Although it is a fairly bright star with an apparent visual magnitude that varies from 1.6 to 3.0, it has no traditional Arabic or Latin name.\nGamma Cassiopeiae is a Be star, a variable star, and a binary.  Based upon parallax measurements made by the Hipparcos satellite, it is located at a distance of roughly 550 light-years from Earth.\n\n",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cassiopeia_constellation_map.svg/1000px-Cassiopeia_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Andromedae",
+        "summary": "Beta Andromedae (β Andromedae, abbreviated Beta And, β And), also named Mirach, is a prominent star in the northern constellation of Andromeda. It is northeast of the Great Square of Pegasus and is theoretically visible to all observers north of 54° S. It is commonly used by stargazers to find the Andromeda Galaxy. The galaxy NGC 404, also known as Mirach's Ghost, is seven arc minutes away from Mirach.This star has an average apparent visual magnitude of 2.05, making it the brightest star in the constellation. The luminosity varies slightly from magnitude +2.01 to +2.10. Based upon parallax measurements, it is roughly 197 light-years (60 parsecs) from the Sun. Its apparent magnitude is reduced by 0.06 by extinction due to gas and dust along the line of sight.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Andromeda_IAU.svg/1000px-Andromeda_IAU.svg.png"
+    },
+    {
+        "name": "Rucbah",
+        "summary": "The traditional star name Rucbah can refer to three different stars:\n\nAlpha Aquarii in the Aquarius constellation\nDelta Cassiopeiae in the Cassiopeia constellation\nAlpha Sagittarii in the Sagittarius constellation (Al Rami, Rukbat)\nAlpha Sagittarii in fiction, namely Rukbat, is the sun in Pern stories by Anne McCaffrey, from 1967",
+        "imgLink": ""
+    },
+    {
+        "name": "Achernar",
+        "summary": "Achernar  is the name of the primary (or 'A') component of the binary system designated Alpha Eridani (α Eridani, abbreviated Alpha Eri, α Eri), which is the brightest 'star' or point of light in, and lying at the southern tip of, the constellation of Eridanus, and the tenth-brightest in the night sky. The two components are designated Alpha Eridani A (the primary) and B (the secondary, also known informally as Achernar B). As determined by the Hipparcos astrometry satellite, it is approximately 139 light-years (43 pc) from the Sun.Of the ten apparent brightest stars in the night-time sky, Alpha Eridani is the hottest and bluest in color, due to Achernar being of spectral type B. Achernar has an unusually rapid rotational velocity, causing it to become oblate in shape. The secondary is smaller, of spectral type A, and orbits Achernar at a distance of roughly 12 astronomical units (AU).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Position_Alpha_Eri.png"
+    },
+    {
+        "name": "Beta Arietis",
+        "summary": "Beta Arietis (β Arietis, abbreviated Beta Ari, β Ari), also named Sheratan, is a star system and the second-brightest star in the constellation of Aries, marking the ram's second horn.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aries_constellation_map.svg/986px-Aries_constellation_map.svg.png"
+    },
+    {
+        "name": "Gamma Andromedae",
+        "summary": "Gamma Andromedae (γ Andromedae, abbreviated Gamma And, γ And) is the third-brightest point of light in the constellation of Andromeda.  It is a multiple star system approximately 350 light-years from the Earth.\nIn 1778, Johann Tobias Mayer discovered that γ Andromedae was a double star.  When examined in a small telescope, it appears to be a bright, golden-yellow star (γ1 Andromedae or γ Andromedae A, also named Almach) next to a dimmer, indigo-blue star (γ2 Andromedae or γ Andromedae B), separated by approximately 10 arcseconds.  It is often considered by stargazers to be a beautiful double star with a striking contrast of color.  It was later discovered that γ2 Andromedae is itself a triple star system.  What appears as a single star to the naked eye is thus a quadruple star system.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Andromeda_constellation_map.svg/1000px-Andromeda_constellation_map.svg.png"
+    },
+    {
+        "name": "Hamal",
+        "summary": "Hamal, alternatively designated Alpha Arietis (α Arietis, abbreviated Alpha Ari, α Ari), is the brightest star in the northern zodiacal constellation of Aries.With an apparent visual magnitude of 2.0, it is among the brightest stars in the night sky. Based upon parallax measurements made with the Hipparcos astrometry satellite, Hamal is about 65.8 light-years (20.2 parsecs) from Earth. It is a giant star that may host an orbiting planet with a mass greater than Jupiter.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aries_constellation_map.svg/986px-Aries_constellation_map.svg.png"
+    },
+    {
+        "name": "Mira",
+        "summary": "Mira , alternatively designated Omicron Ceti (ο Ceti, abbreviated Omicron Cet, ο Cet) is a red giant star estimated to be 200–400 light years from the Sun in the constellation of Cetus.\nο Ceti is a binary stellar system, consisting of a variable red giant (Mira A) along with a white dwarf companion (Mira B). Mira A is a pulsating variable star and was the first non-supernova variable star discovered, with the possible exception of Algol.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cetus_constellation_map.svg/1000px-Cetus_constellation_map.svg.png"
+    },
+    {
+        "name": "Polaris",
+        "summary": "Polaris, designated Alpha Ursae Minoris (α Ursae Minoris, abbreviated Alpha UMi, α UMi), commonly the North Star or Pole Star, is the brightest star in the constellation of Ursa Minor. It is very close to the north celestial pole, making it the current northern pole star.  The revised Hipparcos parallax gives a distance to Polaris of about 433 light-years (133 parsecs), while calculations by other methods derive distances around 30% closer.\nPolaris is a multiple star, comprising the main star (Polaris Aa, a yellow supergiant) in orbit with a smaller companion (Polaris Ab); the pair in orbit with Polaris B (discovered in August 1779 by William Herschel). There were once thought to be two more distant components—Polaris C and Polaris D—but these have been shown not to be physically associated with the Polaris system.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ursa_Minor_IAU.svg/901px-Ursa_Minor_IAU.svg.png"
+    },
+    {
+        "name": "Gliese 105",
+        "summary": "Gliese 105 (also known as 268 G. Ceti) is a multiple star system in the constellation of Cetus. It is located relatively near the Sun at a distance of 23 light-years (7 parsecs). Despite this, even the brightest component is barely visible with the unaided eye (see Bortle scale). No planets have yet been detected around any of the stars in this system.\nThis is a triple system with three stars that are all less massive than the Sun. The brightest component is designated HD 16160, and is known as Gliese 105 A. It is a K-type main-sequence star, about 70% the mass of the Sun.A nearby star has a similar proper motion to Gliese 105 A, so it is assumed to be physically associated with the primary, and is known as Gliese 105 B. The two have an estimated separation of 1,200 astronomical units (au). It is a BY Draconis variable star whose brightness varies between 11.64 and 11.68 magnitudes; for that reason it has been given the designation BX Ceti.A third companion, known as Gliese 105 C, lies much closer to A, currently at a distance of approximately 24 au. The pair A-C have an estimated orbital period of 61 years. While detected directly, Gliese 105 C has also been observed to perturb Gliese 105 A from its usual position; from that, its orbit is estimated to have a high eccentricity of around 0.75 and a semimajor axis of 15 au. Gliese 105 C is an extremely faint red dwarf. It is roughly 8 to 9 percent the mass of the Sun, and it is about 20,000 times fainter than its parent star in visible light—at a distance of 1 au (the distance from the Earth to the Sun) it would only be four times brighter than the full moon.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gliese_105.gif"
+    },
+    {
+        "name": "Theta Eridani",
+        "summary": "Theta Eridani (θ Eridani, abbreviated Theta Eri, θ Eri) is a binary system in the constellation of Eridanus. Its two components are designated θ¹ Eridani, also named Acamar, and θ² Eridani. The system's distance from the Sun as measured by the Hipparcos astrometry satellite is approximately 120 light-years.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eridanus_constellation_map.png/820px-Eridanus_constellation_map.png"
+    },
+    {
+        "name": "Alpha Ceti",
+        "summary": "Alpha Ceti (α Ceti, abbreviated Alpha Cet, α Cet), also named Menkar, is the second-brightest star in the constellation of Cetus.  It is a cool luminous red giant about 250 light years away.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cetus_constellation_map.svg/1000px-Cetus_constellation_map.svg.png"
+    },
+    {
+        "name": "Algol",
+        "summary": "Algol (), designated Beta Persei (β Persei, abbreviated Beta Per, β Per), known colloquially as the Demon Star, is a bright multiple star in the constellation of Perseus and one of the first non-nova variable stars to be discovered.\nAlgol is a three-star system, consisting of Beta Persei Aa1, Aa2, and Ab - in which the hot luminous primary β Persei Aa1 and the larger, but cooler and fainter, β Persei Aa2 regularly pass in front of each-other causing eclipses. Thus Algol's magnitude is usually near-constant at 2.1, but regularly dips to 3.4 every 2.86 days during the roughly 10-hour-long partial eclipses. The secondary eclipse when the brighter primary star occults the fainter secondary is very shallow and can only be detected photoelectrically.Algol gives its name to its class of eclipsing variable, known as Algol variables.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Perseus_constellation_map.svg/1000px-Perseus_constellation_map.svg.png"
+    },
+    {
+        "name": "82 G. Eridani",
+        "summary": "82 G. Eridani (HD 20794, HR 1008, e Eridani) is a star about 20 light years away from Earth in the constellation Eridanus. It is a main-sequence star with a stellar classification of G6.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eridanus_constellation_map.svg/820px-Eridanus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Persei",
+        "summary": "Alpha Persei (α Persei, abbreviated Alpha Per, α Per), also named Mirfak, is the brightest star in the northern constellation of Perseus, just outshining the constellation's best known star, Algol. α Persei has an apparent visual magnitude of 1.8, and is a circumpolar star when viewed from mid-northern latitudes.\nMirfak lies in the midst of a cluster of stars named as the eponymous Alpha Persei Cluster, or Melotte 20, which is easily visible in binoculars and includes many of the fainter stars in the constellation.  Determined distance using the trigonometric parallax, places the star 510 light-years (160 parsecs) from the Sun.\n\n",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Perseus_constellation_map.svg/1000px-Perseus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alcyone (star)",
+        "summary": "Alcyone, designated η Tauri (Eta Tauri, abbreviated Eta Tau, η Tau), is a multiple star system in the constellation of Taurus. Approximately 440 light years from the Sun, it is the brightest star in the Pleiades open cluster, which is a young cluster, around 100 million years old. There are a number of fainter stars very close to Alcyone, all most probably members of the same cluster.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/1000px-Pleiades_large.jpg"
+    },
+    {
+        "name": "Gamma Eridani",
+        "summary": "Gamma Eridani (γ Eridani, abbreviated Gamma Eri, γ Eri), also named Zaurak, is a variable star in the constellation of Eridanus. It is visible to the naked eye with an apparent visual magnitude that varies around 2.9, and lies at a distance of about 203 light years from the Sun, as determined by the Hipparcos astrometry satellite. This is an evolved red giant star that is currently on the asymptotic giant branch of the Hertzsprung–Russell diagram.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eridanus_constellation_map.svg/820px-Eridanus_constellation_map.svg.png"
+    },
+    {
+        "name": "Aldebaran",
+        "summary": "Aldebaran, also designated α Tauri (Latinized to Alpha Tauri, abbreviated Alpha Tau, α Tau), is a red giant star located about 65 light-years from the Sun in the zodiac constellation Taurus. It is the brightest star in its constellation and usually the fourteenth-brightest star in the night sky, though it varies slowly in brightness between magnitude 0.75 and 0.95. Aldebaran hosts a planet several times the size of Jupiter￼, named Aldebaran b.\nThe planetary exploration probe Pioneer 10 is currently heading in the general direction of the star and should make its closest approach in about two million years.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Taurus_constellation_map.svg/1000px-Taurus_constellation_map.svg.png"
+    },
+    {
+        "name": "Iota Aurigae",
+        "summary": "Iota Aurigae (ι Aurigae, abbreviated Iota Aur, ι Aur), also named Hassaleh, is a star in the northern constellation of Auriga. It has an apparent visual magnitude of 2.7, which is bright enough to be readily visible to the naked eye. Parallax measurements give a distance estimate of roughly 490 light-years (150 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Auriga_constellation_map.svg/1000px-Auriga_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Eridani",
+        "summary": "Beta Eridani (β Eridani, abbreviated Beta Eri, β Eri), also named Cursa, is the second-brightest star in the constellation of Eridanus, located in the northeast end of this constellation near the shared border with Orion. The apparent visual magnitude of this star is 2.796, so it can be viewed with the naked eye in dark skies. Parallax measurements yield an estimated distance of about 89 light-years (27 parsecs) from the Earth.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eridanus_constellation_map.svg/820px-Eridanus_constellation_map.svg.png"
+    },
+    {
+        "name": "Kapteyn's Star",
+        "summary": "Kapteyn's Star is a class M1 red subdwarf about 12.76 light years from Earth in the southern constellation Pictor; it is the closest halo star to the Solar System. With a magnitude of nearly 9 it is visible through binoculars or a telescope.Its diameter is 30% of the Sun's, but its luminosity just 1.2% that of the Sun's. It may have once been part of the globular cluster Omega Centauri, itself a likely dwarf galaxy swallowed up by the Milky Way in the distant past. The discovery of two planets — Kapteyn b and Kapteyn c — was announced in 2014.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pictor_constellation_map.svg/970px-Pictor_constellation_map.svg.png"
+    },
+    {
+        "name": "Rigel",
+        "summary": "Rigel (), also designated β Orionis (Latinized to Beta Orionis, abbreviated Beta Ori, β Ori), is on average the seventh-brightest star in the night sky and the brightest in the constellation of Orion—though occasionally it is outshone within the constellation by the variable star Betelgeuse. With an average apparent magnitude of 0.13, it is a luminous object some 863 light-years distant from Earth.\nRigel as seen from Earth is actually a multiple star system of three to five stars, the primary star, Rigel A, being a blue-white supergiant which is estimated to be anywhere from 120,000 to 279,000 times as luminous as the Sun, depending on the method used to calculate its properties. It has exhausted its core of hydrogen and swollen to between 79 and 115 times the Sun's radius. It pulsates quasi-periodically and is classified as an Alpha Cygni variable. A companion, Rigel B, is 500 times fainter than the supergiant Rigel A and visible only with a telescope. Rigel B is itself a spectroscopic binary system, consisting of two main sequence blue-white stars of spectral type B9V that are estimated to be respectively 3.9 and 2.9 times as massive as the Sun; Rigel Bb may itself be a binary. Rigel B also appears to have a very close visual companion Rigel C of almost identical appearance.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/970px-Orion_constellation_map.svg.png"
+    },
+    {
+        "name": "Capella",
+        "summary": "Capella, also designated α Aurigae (Latinized to Alpha Aurigae, abbreviated Alpha Aur, α Aur), is the brightest point of light in the constellation of Auriga, the sixth-brightest in the night sky, and the third-brightest in the northern celestial hemisphere after Arcturus and Vega. A prominent object in the northern winter sky, it is circumpolar to observers north of 44°N. Its name meaning \"little goat\" in Latin, Capella depicted the goat Amalthea that suckled Zeus in classical mythology. The Capella system is relatively close, at only 42.9 light-years (13.2 pc) from the Sun.\nAlthough it appears to be a single star to the naked eye, Capella is actually a quadruple star system in two binary pairs made up of the stars Capella Aa, Capella Ab, Capella H, and Capella L.   \nThe first pair, Capella Aa and Capella Ab, are two bright yellow giant stars, both of which are around 2.5 times as massive as the Sun. The second pair, Capella H and Capella L, are around 10,000 astronomical units (AU) from the first and are two faint, small and relatively cool red dwarfs.  \nCapella Aa and Capella Ab have exhausted their core hydrogen, and cooled and expanded, moving off the main sequence. They are in a very tight circular orbit about 0.74 AU apart, and orbit each other every 104 days. Capella Aa is the cooler and more luminous of the two with spectral class K0III; it is 78.7 ± 4.2 times the Sun's luminosity and 11.98 ± 0.57 times its radius. An ageing red clump star, Capella Aa is fusing helium to carbon and oxygen in its core. Ab is slightly smaller and hotter and of spectral class G1III; it is 72.7 ± 3.6 times as luminous as the Sun and 8.83 ± 0.33 times its radius. It is in the Hertzsprung gap, corresponding to a brief subgiant evolutionary phase as it expands and cools to become a red giant.  \nThe Capella system is one of the brightest sources of X-rays in the sky, thought to come primarily from the corona of Capella Aa.   \nSeveral other stars in the same visual field have been catalogued as companions but are physically unrelated.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Auriga_constellation_map.svg/1000px-Auriga_constellation_map.svg.png"
+    },
+    {
+        "name": "Bellatrix",
+        "summary": "Bellatrix, also designated Gamma Orionis (γ Orionis, abbreviated Gamma Ori, γ Ori), is the third-brightest star in the constellation of Orion, 5° west of the red giant Alpha Orionis (Betelgeuse). Just between the first and second magnitude and slightly variable, it is about the 25th-brightest star in the night sky.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orion_IAU.svg/806px-Orion_IAU.svg.png"
+    },
+    {
+        "name": "Beta Tauri",
+        "summary": "Beta Tauri (β Tauri, abbreviated Beta Tau, β Tau), also named Elnath or Alnath, is the second-brightest star in the constellation of Taurus with an apparent magnitude of 1.65.  It is a chemically peculiar B7 giant star, 134 light years away from Earth.  It was previously also known as Gamma Aurigae.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Taurus_constellation_map.svg/1000px-Taurus_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Leporis",
+        "summary": "Beta Leporis (β Leporis, abbreviated Beta Lep, β Lep), also named Nihal, is the second brightest star in the constellation of Lepus.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lepus_IAU.svg/1000px-Lepus_IAU.svg.png"
+    },
+    {
+        "name": "Mintaka",
+        "summary": "Mintaka, also designated Delta Orionis (δ Orionis, abbreviated Delta Ori, δ Ori) and 34 Orionis (34 Ori) is a multiple star system some 1,200 light-years from the Sun in the constellation of Orion. Together with Alnitak (Zeta Orionis) and Alnilam (Epsilon Orionis), the three stars form Orion's Belt, known by many names among ancient cultures. When Orion is near the meridian, Mintaka is the right-most of the Belt's stars when viewed from the Northern Hemisphere facing south.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Orion_Belt_2009-01-29.jpg/1000px-Orion_Belt_2009-01-29.jpg"
+    },
+    {
+        "name": "Alpha Leporis",
+        "summary": "Alpha Leporis (α Leporis, abbreviated Alpha Lep, α Lep), also named Arneb, is the brightest star in the constellation of Lepus.\nAlpha Leporis is the star's Bayer designation. The traditional name Arneb comes from the Arabic أرنب  ’arnab 'hare' ('Lepus' is Latin for hare). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Arneb for this star.\nIn Chinese, 廁 (Cè), meaning Toilet, refers to an asterism consisting of α Leporis, β Leporis, γ Leporis and δ Leporis. Consequently, α Leporis itself is known as 廁一 (Cè yī), \"the First Star of Toilet\".This is a massive star with about 14 times the mass of the Sun. The interferometer-measured angular diameter of this star, after correction for limb darkening, is 1.77 ± 0.09 mas. At an estimated distance of 2,218 light-years (680 parsecs), this yields a physical size of about 129 times the radius of the Sun. Alpha Leporis has a stellar classification of F0 Ib, with the Ib luminosity class indicating that it is a lower luminosity supergiant star. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The effective temperature of the outer envelope is about 6,850 K, which gives the star a yellow-white hue that is typical of F-type stars. It is an estimated 13 million years old.Alpha Leporis is an older, dying star that may have already passed through a supergiant phase and is now contracting and heating up in the latter phases of stellar evolution, or perhaps is still expanding into the supergiant phase. Based upon its estimated mass, it is expected to end its life in a spectacular stellar explosion known as a supernova. However, this is not expected to happen for another million years.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lepus_constellation_map.svg/1000px-Lepus_constellation_map.svg.png"
+    },
+    {
+        "name": "Iota Orionis",
+        "summary": "Iota Orionis (ι Orionis, abbreviated Iota Ori, ι Ori) is a multiple star system in the equatorial constellation of Orion the hunter. It is the eighth-brightest member of Orion with an apparent visual magnitude of 2.77 and also the brightest member of the asterism known as Orion's Sword. It is a member of the NGC 1980 open cluster. From parallax measurements, it is located at a distance of roughly 2,300 light-years (710 parsecs) from the Sun.The system has three components designated Iota Orionis A, B and C. Iota Orionis A is itself a massive spectroscopic binary, with components Iota Orionis Aa (also named Hatysa) and Ab.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/970px-Orion_constellation_map.svg.png"
+    },
+    {
+        "name": "Alnilam",
+        "summary": "Alnilam, designated Epsilon Orionis (ε Orionis, abbreviated Epsilon Ori, ε Ori) and 46 Orionis (46 Ori), is a large blue supergiant star some 2,000 light-years distant in the constellation of Orion. It is estimated to be 275,000 to 832,000 times as luminous as the Sun, and 30-64.5 times as massive.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/970px-Orion_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Columbae",
+        "summary": "Alpha Columbae (α Columbae, abbreviated Alpha Col, α Col), also named Phact, is a third magnitude star in the southern constellation of Columba. It has an apparent visual magnitude of 2.6, making it the brightest member of Columba. Based upon parallax measurements made during the Hipparcos mission, Alpha Columbae is located at a distance of around 261 light-years (80 parsecs).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Columba_IAU.svg/1000px-Columba_IAU.svg.png"
+    },
+    {
+        "name": "Alnitak",
+        "summary": "Alnitak, designated Zeta Orionis (ζ Orionis, abbreviated Zeta Ori, ζ Ori) and 50 Orionis (50 Ori), is a multiple star several hundred parsecs from the Sun in the constellation of Orion. It is one of the three main stars of Orion's Belt along with Alnilam and Mintaka.\nThe primary star is a hot blue supergiant with an absolute magnitude of -6.0 and is the brightest class O star in the night sky with a visual magnitude of +2.0.  It has two bluish 4th magnitude companions, one finely resolved and one only detected interferometrically and spectroscopically, producing a combined magnitude for the trio of +1.77. The stars are members of the Orion OB1 association and the Collinder 70 association.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ngc2024_2mass.jpg"
+    },
+    {
+        "name": "Saiph",
+        "summary": "Saiph, also designated Kappa Orionis (κ Orionis, abbreviated Kappa Ori, κ Ori) and 53 Orionis (53 Ori), is the sixth-brightest star in the constellation of Orion. Of the four bright stars that compose Orion's main quadrangle, it is the star at the south-eastern corner. A northern-hemisphere observer facing south would see it at the lower left of Orion, and a southern-hemisphere observer facing north would see it at the upper right. Parallax measurements yield an estimated distance of 650 light-years (198 parsecs) from the Sun, which is about the same as Betelgeuse.  It is smaller, less luminous but hotter at its surface than Rigel with an apparent visual magnitude of 2.1. The luminosity of this star changes slightly, varying by 0.04 magnitudes.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/970px-Orion_constellation_map.svg.png"
+    },
+    {
+        "name": "Betelgeuse",
+        "summary": "Betelgeuse, also designated α Orionis (Latinised to Alpha Orionis, abbreviated Alpha Ori, α Ori), is on average the ninth-brightest star in the night sky and second-brightest in the constellation of Orion. It is distinctly reddish, and is a semiregular variable star whose apparent magnitude varies between 0.0 and 1.3, the widest range of any first-magnitude star. Betelgeuse is one of three stars that make up the Winter Triangle asterism, and it marks the center of the Winter Hexagon. If the human eye could view all wavelengths of radiation, Betelgeuse would be the brightest star in the night sky.\nClassified as a red supergiant of spectral type M1-2, the star is one of the largest stars visible to the naked eye. If Betelgeuse were at the center of the Solar System, its surface would extend past the asteroid belt, completely engulfing the orbits of Mercury, Venus, Earth, Mars, and possibly Jupiter. However, there are several other red supergiants in the Milky Way that could be larger, such as Mu Cephei and VY Canis Majoris. Calculations of its mass range from slightly under ten to a little over twenty times that of the Sun. It is calculated to be 640 light-years away, yielding an absolute magnitude of about −6. Less than 10 million years old, Betelgeuse has evolved rapidly because of its high mass. Having been ejected from its birthplace in the Orion OB1 Association—which includes the stars in Orion's Belt—this runaway star has been observed moving through the interstellar medium at a speed of 30 km/s, creating a bow shock over four light-years wide. Currently in a late stage of stellar evolution, the supergiant is expected to explode as a supernova within the next million years.\nIn 1920, Betelgeuse became the first extrasolar star to have the angular size of its photosphere measured. Subsequent studies have reported an angular diameter (apparent size) ranging from 0.042 to 0.056 arcseconds, with the differences ascribed to the non-sphericity, limb darkening, pulsations, and varying appearance at different wavelengths. It is also surrounded by a complex, asymmetric envelope roughly 250 times the size of the star, caused by mass loss from the star itself. The angular diameter of Betelgeuse is only exceeded by R Doradus and the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orion_constellation_map.svg/970px-Orion_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Aurigae",
+        "summary": "Beta Aurigae (β Aurigae, abbreviated Beta Aur, β Aur), also named Menkalinan, is a binary star system in the northern constellation of Auriga. The combined apparent visual magnitude of the system is 1.9, making it the second-brightest member of the constellation after Capella. Using the parallax measurements made during the Hipparcos mission, the distance to this star system can be estimated as 81.1 light-years (24.9 parsecs), give or take a half-light-year margin of error.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Auriga_constellation_map.svg/1000px-Auriga_constellation_map.svg.png"
+    },
+    {
+        "name": "Red Rectangle Nebula",
+        "summary": "The Red Rectangle Nebula, so called because of its red color and unique rectangular shape, is a protoplanetary nebula in the Monoceros constellation.  Also known as HD 44179, the nebula was discovered in 1973 during a rocket flight associated with the AFCRL Infrared Sky Survey called Hi Star.  The binary system at the center of the nebula was first discovered by Robert Grant Aitken in 1915.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Redrectangle_hst_full.jpg/1000px-Redrectangle_hst_full.jpg"
+    },
+    {
+        "name": "Beta Canis Majoris",
+        "summary": "Beta Canis Majoris (β Canis Majoris, abbreviated Beta CMa, β CMa), also named Mirzam, is a star in the southern constellation of Canis Major, the \"Great Dog\", located at a distance of about 500 light-years (150 parsecs) from the Sun. In the modern constellation it lies at the position of the dog's front leg.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Major_constellation_map.svg/1000px-Canis_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Canopus",
+        "summary": "Canopus (), also designated α Carinae (Latinised to Alpha Carinae, abbreviated Alpha Car, α Car), is the brightest star in the southern constellation of Carina, and the second-brightest star in the night sky, after Sirius. Canopus' visual magnitude is −0.74, and it has an absolute magnitude of −5.71.\nCanopus is a bright giant of spectral type A9, so it is essentially white when seen with the naked eye. It is located in the far southern sky, at a year 2000 declination of −52° 42′ and a right ascension of 06h 24.0m.\nIts name is generally considered to originate from the mythological Canopus, who was a navigator for Menelaus, king of Sparta (see below).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Canopus.jpg/1000px-Canopus.jpg"
+    },
+    {
+        "name": "Gamma Geminorum",
+        "summary": "Gamma Geminorum (γ Geminorum, abbreviated Gamma Gem, γ Gem), also named Alhena, is the third-brightest star in the constellation of Gemini. It has an apparent visual magnitude of 1.9, making it easily visible to the naked eye even in urban regions. Based upon parallax measurements with the Hipparcos satellite, it is located at a distance of roughly 109 light-years (33 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemini_constellation_map.svg/1000px-Gemini_constellation_map.svg.png"
+    },
+    {
+        "name": "Sirius",
+        "summary": "Sirius (, a latinisation of Greek Σείριος, Seirios, lit. \"glowing\" or \"scorching\") is a binary star and the brightest star in the night sky. With a visual apparent magnitude of −1.46, it is almost twice as bright as Canopus, the next brightest star. The system has the Bayer designation α (Alpha) Canis Majoris. The binary system consists of a main-sequence star of spectral type A0 or A1, termed Sirius A, and a faint white dwarf companion of spectral type DA2, designated Sirius B. The distance between the two varies between 8.2 and 31.5 astronomical units as they orbit every 50 years.Sirius appears bright because of its intrinsic luminosity and its proximity to Earth. At a distance of 2.6 parsecs (8.6 ly), as determined by the Hipparcos astrometry satellite, the Sirius system is one of Earth's near neighbours. Sirius is gradually moving closer to the Solar System, so it will slightly increase in brightness over the next 60,000 years. After that time its distance will begin to increase and it will become fainter, but it will continue to be the brightest star in the Earth's night sky for the next 210,000 years.Sirius A is about twice as massive as the Sun (M☉) and has an absolute visual magnitude of +1.42. It is 25 times more luminous than the Sun but has a significantly lower luminosity than other bright stars such as Canopus or Rigel. The system is between 200 and 300 million years old. It was originally composed of two bright bluish stars. The more massive of these, Sirius B, consumed its resources and became a red giant before shedding its outer layers and collapsing into its current state as a white dwarf around 120 million years ago.Sirius is also known colloquially as the \"Dog Star\", reflecting its prominence in its constellation, Canis Major (Greater Dog). The heliacal rising of Sirius marked the flooding of the Nile in Ancient Egypt and the \"dog days\" of summer for the ancient Greeks, while to the Polynesians in the Southern Hemisphere the star marked winter and was an important reference for their navigation around the Pacific Ocean.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Major_constellation_map.svg/1000px-Canis_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Epsilon Canis Majoris",
+        "summary": "Epsilon Canis Majoris (ε Canis Majoris, abbreviated Epsilon CMa, ε CMa) is a binary star and, despite being designated 'epsilon', the second-brightest star in the constellation of Canis Major and one of the brightest stars in the night sky with an apparent magnitude of 1.50. About 4.7 million years ago, it was the brightest star in the sky, with an apparent magnitude of −3.99. Based upon parallax measurements obtained during the Hipparcos mission, it is about 430 light-years distant from the Sun.The two components are themselves designated Epsilon Canis Majoris A (also named Adhara) and B.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Major_constellation_map.svg/1000px-Canis_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Delta Canis Majoris",
+        "summary": "Delta Canis Majoris (δ Canis Majoris, abbreviated Delta CMa, δ CMa), also named Wezen, is a star in the constellation of Canis Major. It is a yellow-white F-type supergiant with an apparent magnitude of +1.83. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Major_constellation_map.svg/1000px-Canis_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Eta Canis Majoris",
+        "summary": "Eta Canis Majoris (η Canis Majoris, abbreviated Eta CMa, η CMa), also named Aludra, is a star in the constellation of Canis Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Major_constellation_map.svg/1000px-Canis_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Canis Minoris",
+        "summary": "Beta Canis Minoris (β Canis Minoris, abbreviated Beta CMi, β CMi), also named Gomeisa, is a star in the constellation of Canis Minor. In the night sky it is notable for its proximity to the prominent star Procyon.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/9/94/Position_Beta_Cmi.png"
+    },
+    {
+        "name": "Luyten's Star",
+        "summary": "Luyten's Star (GJ 273) is a red dwarf in the constellation Canis Minor located at a distance of approximately 12.36 light-years (3.79 parsecs) from the Sun. It has a visual magnitude of 9.9, making it too faint to be viewed with the unaided eye. It is named after Willem Jacob Luyten, who, in collaboration with Edwin G. Ebbighausen, first determined its high proper motion in 1935.This star is approximately a quarter the mass of the Sun and has 35% of the Sun's radius. Luyten's Star is at the maximum mass at which a red dwarf can be fully convective, which means that most if not all of the star forms an extended convection zone. It has a stellar classification of M3.5V, with the V luminosity class indicating this is a main-sequence star that is generating energy through the thermonuclear fusion of hydrogen at its core. The projected rotation rate of this star is too low to be measured, but is no greater than 1 km/s. Measurements of periodic variation in surface activity suggest a leisurely rotation period of roughly 116 days (which would give a velocity of ~0.15 km/s). The effective temperature of the star's outer envelope is a relatively cool 3,150 K, giving the star the characteristic red-orange hue of an M-type star.At present, Luyten's Star is moving away from the Solar System. The closest approach occurred about 13,000 years ago when it came within 3.67 parsecs. The star is currently located 1.2 light years distant from Procyon, and the latter would appear as a visual magnitude −4.5 star in the night sky of one of the planets orbiting Luyten's Star. The closest encounter between the two stars occurred about 600 years ago when Luyten's Star was at its minimal distance of about 1.12 ly from Procyon. The space velocity components of Luyten's Star are U = +16, V = −66 and W = −17 km/s.",
+        "imgLink": ""
+    },
+    {
+        "name": "Castor (star)",
+        "summary": "Castor, also designated α Geminorum (Latinised to Alpha Geminorum, abbreviated Alpha Gem, α Gem) is the second-brightest object in the constellation of Gemini and one of the brightest in the night sky. It appears singular to the naked eye, but it is actually a sextuple star system in three binary pairs made up of the stars Castor Aa, Castor Ab, Castor Ba, Castor Bb, Castor Ca, and Castor Cb. Although it has the Bayer designation alpha, it is fainter than Beta Geminorum, Pollux.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemini_constellation_map.svg/1000px-Gemini_constellation_map.svg.png"
+    },
+    {
+        "name": "Procyon",
+        "summary": "Procyon (UK:  PROH-see-on), also designated α Canis Minoris (Latinised to Alpha Canis Minoris, abbreviated Alpha CMi, α CMi), is the brightest object in the constellation of Canis Minor and usually the eighth-brightest star in the night sky with a visual apparent magnitude of 0.34. It is a binary star system, consisting of a white main-sequence star of spectral type F5 IV–V, named Procyon A, and a faint white dwarf companion of spectral type DQZ, named Procyon B.\nAs determined by the European Space Agency Hipparcos astrometry satellite, it lies at a distance of just 11.46 light-years (3.51 parsecs), and is therefore one of Earth's nearest stellar neighbours.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Position_Alpha_Cmi.png"
+    },
+    {
+        "name": "Pollux (star)",
+        "summary": "Pollux, also designated β Geminorum (Latinised to Beta Geminorum, abbreviated Beta Gem, β Gem), is an orange-hued evolved giant star approximately 34 light-years from the Sun in the northern constellation of Gemini. It is the brightest star in Gemini and the closest giant star to the Sun.\nSince 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. In 2006, an extrasolar planet (designated Pollux b or β Geminorum b, later named Thestias) was confirmed to be orbiting it.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemini_constellation_map.svg/1000px-Gemini_constellation_map.svg.png"
+    },
+    {
+        "name": "Zeta Puppis",
+        "summary": "Zeta Puppis (ζ Puppis, abbreviated Zeta Pup, ζ Pup), also named Naos, is a star in the constellation of Puppis.\nThe spectral class of O4 means this is one of the hottest, and most luminous, stars visible to the naked eye. It is one of the sky's few naked-eye class O-type stars as well as one of the closest to Earth. It is a blue supergiant, one of the most luminous stars in the Milky Way. Visually it is over 10,000 times brighter than the Sun, but its high temperature means that most of its radiation is in the ultraviolet and its bolometric luminosity is over 500,000 times that of the Sun. It is also the 62nd brightest star in terms of apparent magnitude from Earth.\nNaos is typical of O-type stars in having an extremely strong stellar wind, measured at 2,500 km/s, which sees the star shed more than a millionth of its mass each year, or about 10 million times that shed by the Sun over a comparable time period.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Puppis_constellation_map.svg/751px-Puppis_constellation_map.svg.png"
+    },
+    {
+        "name": "Epsilon Carinae",
+        "summary": "Epsilon Carinae (ε Carinae, abbreviated Epsilon Car, ε Car), also named Avior, is a binary star in the southern constellation of Carina. At apparent magnitude +1.86 it is one of the brightest stars in the night sky, but is not visible from the northern hemisphere. The False Cross is an asterism formed of Delta Velorum, Kappa Velorum, Iota Carinae and ε Carinae. It is so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.\n\nEpsilon Carinae is located roughly 560–660 light-years (170–200 parsecs) from the Sun. Measurements during the Hipparcos mission give the pair an angular separation of 0.46 arcseconds with a difference in magnitude of 2.0. At their estimated distance, this angle is equivalent to a physical separation of around 4 astronomical units. This pair may form an eclipsing binary system with a period of 785 days (2.15 years), resulting in a magnitude change of 0.12 during each eclipse.The primary component has an apparent visual magnitude of 2.2, which by itself would still make it the third-brightest star in the constellation. It is an evolved giant star with a stellar classification of K0 III. However, examination of the ultraviolet flux from this star suggests it may instead be of spectral type K7. The fainter secondary companion has an apparent visual magnitude of 4.1, which, if it were a solitary star, would be bright enough to be seen with the naked eye. This is a hot, core hydrogen-fusing B-type main sequence star of spectral class B2 Vp. The secondary may itself have an orbiting stellar companion of spectral class F8.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Carina_constellation_map.svg/1000px-Carina_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Carinae",
+        "summary": "Beta Carinae (β Carinae, abbreviated Beta Car, β Car), also named Miaplacidus, is the second brightest star in the constellation of Carina and one of the brightest stars in the night sky, with apparent magnitude 1.68. It is the brightest star in the south polar asterism known as the Diamond Cross, marking the southwestern end of the asterism. It lies near the planetary nebula IC 2448. Parallax measurements place it at a distance of 113.2 light-years (34.7 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Carina_constellation_map.svg/1000px-Carina_constellation_map.svg.png"
+    },
+    {
+        "name": "Tureis",
+        "summary": "Tureis is a traditional Arabic name for two different stars:\n\nIota Carinae\nRho PuppisThe name Tureis or Turais was derived from the Arabic title al-turais, which means \"The Possession\".",
+        "imgLink": ""
+    },
+    {
+        "name": "Alphard",
+        "summary": "Alphard, also designated Alpha Hydrae (α Hydrae, abbreviated Alpha Hya, α Hya) is the brightest star in the constellation of Hydra.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hydra_constellation_map.svg/1000px-Hydra_constellation_map.svg.png"
+    },
+    {
+        "name": "Epsilon Leonis",
+        "summary": "Epsilon Leonis (ε Leo, ε Leonis) is the fifth-brightest star in the constellation Leo, consistent with its Bayer designation Epsilon.  The star has the traditional names Ras Elased (Australis), Asad Australis and Algenubi, all of which derive from the Arabic رأس الأسد الجنوبي rās al-’asad al-janūbī, which means \"the southern (star) of the lion's head\"; australis is Latin for \"southern\".",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Leo_IAU.svg/813px-Leo_IAU.svg.png"
+    },
+    {
+        "name": "Regulus",
+        "summary": "Regulus, also designated Alpha Leonis (α Leonis, abbreviated Alpha Leo, α Leo), is the brightest star in the constellation of Leo and one of the brightest stars in the night sky, lying approximately 79 light years from the Sun. Regulus is a multiple star system composed of four stars that are organized into two pairs. The spectroscopic binary Regulus A consists of a blue-white main-sequence star and its companion, which has not yet been directly observed, but is probably a white dwarf. Located farther away are Regulus B, C, and D, which are dim main-sequence stars.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leo_constellation_map.svg/1000px-Leo_constellation_map.svg.png"
+    },
+    {
+        "name": "Gamma Leonis",
+        "summary": "Gamma Leonis (γ Leonis, abbreviated Gamma Leo, γ Leo), also named Algieba, is a binary star system in the constellation of Leo. In 2009, a planetary companion around the primary was announced.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leo_constellation_map.svg/1000px-Leo_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Ursae Majoris",
+        "summary": "Beta Ursae Majoris (β Ursae Majoris, abbreviated Beta UMa, β UMa), also named Merak, is a star in the northern circumpolar constellation of Ursa Major.\nThe apparent visual magnitude of this star is +2.37, which means it is readily visible to the naked eye. It is more familiar to northern hemisphere observers as one of the \"pointer stars\" in the Big Dipper or the Plough (UK), which is a prominent asterism of seven stars that forms part of the larger constellation. Extending an imaginary straight line from this star through the nearby Alpha Ursae Majoris (Dubhe) extends to Polaris, the north star.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ursa_Major_IAU.svg/1000px-Ursa_Major_IAU.svg.png"
+    },
+    {
+        "name": "Lalande 21185",
+        "summary": "Lalande 21185 is a star in the constellation of Ursa Major, relevant for being the brightest red dwarf observable in the northern hemisphere (only AX Microscopii and Lacaille 9352, in the southern hemisphere, are brighter). Despite this, and although relatively close by, it is (as all red dwarves) very dim, being only magnitude 7.5 in visible light and thus too dim to be seen with the unaided eye. The star is visible through a small telescope or binoculars.At approximately 8.31 light-years (2.55 parsecs) away it is one of the nearest stars to the Solar System; only the Alpha Centauri system, Barnard's Star, and Wolf 359 and the brown dwarfs Luhman 16 and WISE 0855−0714 are known to be closer. Because of its proximity it is a frequent subject for astronomical surveys and other research and thus is known by numerous other designations. Research papers most commonly use the designations BD+36 2147, Gliese 411, and HD 95735 to refer to this star. In approximately 19,900 years Lalande 21185 will be at its closest distance of about 4.65 ly (1.43 pc) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ursa_Major_IAU.svg/1000px-Ursa_Major_IAU.svg.png"
+    },
+    {
+        "name": "Alpha Ursae Majoris",
+        "summary": "Alpha Ursae Majoris (α Ursae Majoris, abbreviated Alpha UMa, α UMa), also named Dubhe, is (despite being designated 'alpha') the second-brightest star in the constellation of Ursa Major.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ursa_Major_constellation_map.svg/1000px-Ursa_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Delta Leonis",
+        "summary": "Delta Leonis (δ Leonis, abbreviated Delta Leo, δ Leo), also named Zosma, is a star in the zodiac constellation of Leo. Based upon parallax measurements, it lies at a distance of about 58.4 light-years (17.9 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leo_constellation_map.svg/1000px-Leo_constellation_map.svg.png"
+    },
+    {
+        "name": "Denebola",
+        "summary": "Denebola, also designated Beta Leonis (β Leonis, abbreviated Beta Leo, β Leo) is the second-brightest star in the zodiac constellation of Leo, although the two components of the γ Leonis double star, which are unresolved to the naked eye, have a combined magnitude brighter than it. Denebola is an A-type main sequence star with 75% more mass than the Sun and 15 times the Sun's luminosity. Based on parallax measurements from the Hipparcos astrometry satellite, the star is at a distance of about 36 light-years (11 parsecs) from the Sun. Its apparent visual magnitude is 2.14, making it readily visible to the naked eye. Denebola is a suspected Delta Scuti type variable star, meaning its luminosity varies very slightly over a period of a few hours.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leo_constellation_map.svg/1000px-Leo_constellation_map.svg.png"
+    },
+    {
+        "name": "Groombridge 1830",
+        "summary": "Groombridge 1830 (also known as 1830 Groombridge or  Argelander's Star) is a star in the constellation Ursa Major.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ursa_Major_constellation_map.svg/1000px-Ursa_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Gamma Ursae Majoris",
+        "summary": "Gamma Ursae Majoris (γ Ursae Majoris, abbreviated Gamma UMa, γ UMa), also named Phecda, is a star in the constellation of Ursa Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Based upon parallax measurements with the Hipparcos astrometry satellite, it is located at distance of around 83.2 light-years (25.5 parsecs) from the Sun.It is more familiar to most observers in the northern hemisphere as the lower-left star forming the bowl of the Big Dipper, together with Alpha Ursae Majoris (Dubhe, upper-right), Beta Ursae Majoris (Merak, lower-right) and Delta Ursae Majoris (Megrez, upper-left). Along with four other stars in this well-known asterism, Phecda forms a loose association of stars known as the Ursa Major moving group. Like the other stars in the group, it is a main sequence star not unlike the Sun, although somewhat hotter, brighter and larger.\nPhecda is located in relatively close physical proximity to the prominent Mizar-Alcor star system. The two are separated by an estimated distance of 8.55 ly (2.62 pc); much closer than the two are from the Sun. The star Beta Ursae Majoris is separated from Gamma Ursae Majoris by 11.0 ly (3.4 pc).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ursa_Major_IAU.svg/1000px-Ursa_Major_IAU.svg.png"
+    },
+    {
+        "name": "Delta Ursae Majoris",
+        "summary": "Delta Ursae Majoris (δ Ursae Majoris, abbreviated Delta UMa, δ UMa), also named Megrez, is a star in the northern circumpolar constellation of Ursa Major. With an apparent magnitude of +3.3, it is the dimmest of the seven stars in the Big Dipper asterism. Parallax measurements yield a distance estimate of 80.5 light-years (24.7 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ursa_Major_IAU.svg/1000px-Ursa_Major_IAU.svg.png"
+    },
+    {
+        "name": "Gamma Corvi",
+        "summary": "Gamma Corvi (γ Corvi, abbreviated Gamma Crv, γ Crv) is a binary star and the brightest star in the southern constellation of Corvus, having an apparent visual magnitude of 2.59. The system's two components are designated Gamma Corvi A (also named Gienah) and Gamma Corvi B. The distance to this system has been measured directly using the parallax technique, yielding an estimated 154 light-years (47 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Corvus_constellation_map.svg/1000px-Corvus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Crucis",
+        "summary": "Alpha Crucis (Latinised from α Crucis, abbreviated Alpha Cru, α Cru) is a multiple star system 321 light-years from the Sun in the constellation of Crux and part of the asterism known as the Southern Cross. With a combined visual magnitude of 0.76, it is the brightest object in Crux and on average the 13th brightest star in the night sky. It is the southernmost first-magnitude star, 2.3 degrees more southerly than Alpha Centauri.To the naked eye Alpha Crucis appears as a single star, but it is actually a triple star system. Two components are visually distinguishable: α1 Crucis and α2 Crucis; alternatively designated α Crucis A and α Crucis B. Both are B-type stars, and are many times more massive and luminous than the Sun. α1 Crucis is itself a spectroscopic binary with components designated α Crucis Aa (also officially named Acrux) and α Crucis Ab. Its two component stars orbit every 76 days at a separation of about 1 astronomical unit (AU).\n\n",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Acrux_kstars.png"
+    },
+    {
+        "name": "3C 273",
+        "summary": "3C 273 is a quasar located in the constellation Virgo. It was the first quasar ever to be identified.\nIt is the optically brightest quasar in the sky (m ~12.9), and one of the closest with a redshift, z, of 0.158.  A luminosity distance of DL = 749 megaparsecs (2.4 Gly) may be calculated from z.  It is also one of the most luminous quasars known, with an absolute magnitude of −26.7, meaning that if it were only as distant as Pollux (~10 parsecs) it would appear nearly as bright in the sky as the Sun. Since the sun's absolute magnitude is 4.83, it means that the quasar is over 4 trillion times more luminous than the Sun at visible wavelengths.  The mass of its central black hole has been measured to be 886 ± 187 million solar masses through broad emission-line reverberation mapping.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Best_image_of_bright_quasar_3C_273.jpg/1000px-Best_image_of_bright_quasar_3C_273.jpg"
+    },
+    {
+        "name": "Delta Corvi",
+        "summary": "Delta Corvi (δ Corvi, abbreviated Delta Crv, δ Crv), also named Algorab, is a third magnitude star at a distance of 86.9 light-years (26.6 parsecs) from the Sun in the southern constellation of Corvus.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Corvus_constellation_map.svg/1000px-Corvus_constellation_map.svg.png"
+    },
+    {
+        "name": "Gamma Crucis",
+        "summary": "Gamma Crucis (γ Crucis, abbreviated Gamma Cru, γ Cru), also named Gacrux, is the nearest class M giant star to the Sun. The distance to Gacrux has been determined using parallax measurements made during the Hipparcos mission, which yielded a value of 88.6 light-years (27.2 parsecs) away from the Sun. With an apparent visual magnitude of +1.63, this is the third-brightest star in the southern constellation of Crux, the Southern Cross, and one of the brightest stars in the night sky. A line from the two \"Pointers\", Alpha Centauri through Beta Centauri, leads to within a few degrees of this star.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crux_constellation_map.svg/1000px-Crux_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Corvi",
+        "summary": "Beta Corvi (β Corvi, abbreviated Beta Crv, β Crv), also named Kraz, is the second-brightest star in the southern constellation of Corvus with an apparent visual magnitude of 2.647. Based on parallax measurements obtained during the Hipparcos mission, it is about 146 light-years (45 parsecs) distant from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Corvus_constellation_map.svg/1000px-Corvus_constellation_map.svg.png"
+    },
+    {
+        "name": "Gamma Virginis",
+        "summary": "Gamma Virginis (γ Virginis, abbreviated Gamma Vir, γ Vir), also named Porrima, is a binary star system in the constellation of Virgo.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Virgo_IAU.svg/1000px-Virgo_IAU.svg.png"
+    },
+    {
+        "name": "Beta Crucis",
+        "summary": "Beta Crucis (β Crucis, abbreviated Beta Cru, β Cru), also named Mimosa, is a binary star system; the second-brightest star in the constellation of Crux (after Alpha Crucis or Acrux) and the 19th-brightest star in the night sky. It forms part of the prominent asterism called the Southern Cross.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crux_constellation_map.svg/1000px-Crux_constellation_map.svg.png"
+    },
+    {
+        "name": "Epsilon Ursae Majoris",
+        "summary": "Epsilon Ursae Majoris (ε Ursae Majoris, abbreviated Epsilon UMa, ε UMa), also named Alioth, is (despite being designated 'epsilon') the brightest star in the constellation of Ursa Major, and at magnitude 1.77 is the thirty-second-brightest star in the sky.\nIt is the star in the tail of the bear closest to its body, and thus the star in the handle of the Big Dipper (Plough) closest to the bowl. It is also a member of the large and diffuse Ursa Major moving group. Historically, the star was frequently used in celestial navigation in the maritime trade, because it is listed as one of the 57 navigational stars.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ursa_Major_constellation_map.svg/1000px-Ursa_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Cor Caroli",
+        "summary": "Cor Caroli is the traditional name for the binary star also designated Alpha Canum Venaticorum (α Canum Venaticorum, abbreviated Alpha CVn, α CVn), although the International Astronomical Union now regards the name as only applying to the brightest component. Alpha Canum Venaticorum is the brightest point of light in the northern constellation of Canes Venatici.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Canes_Venatici_IAU.svg/1000px-Canes_Venatici_IAU.svg.png"
+    },
+    {
+        "name": "Epsilon Virginis",
+        "summary": "Epsilon Virginis (ε Virginis, abbreviated Epsilon Vir, ε Vir), also named Vindemiatrix, is a star in the zodiac constellation of Virgo. The apparent visual magnitude of this star is +2.8, making it the third-brightest member of Virgo. Based upon parallax measurements made during the Hipparcos mission, Vindemiatrix lies at a distance of about 109.6 light-years (33.6 parsecs) from the Sun, give or take a half light-year.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Virgo_IAU.svg/1000px-Virgo_IAU.svg.png"
+    },
+    {
+        "name": "Zeta Ursae Majoris",
+        "summary": "Mizar is a 2nd magnitude star in the handle of the Big Dipper asterism in the constellation of Ursa Major.  It has the Bayer designation ζ Ursae Majoris (Latinised as Zeta Ursae Majoris).  It forms a well-known naked eye double star with the fainter star Alcor, and is itself a quadruple star system. The whole system lies about 83 light-years away from the Sun, as measured by the Hipparcos astrometry satellite, and is part of the Ursa Major Moving Group.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ursa_Major_constellation_map.svg/1000px-Ursa_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Spica",
+        "summary": "Spica, designated α Virginis (Latinised to Alpha Virginis, abbreviated Alpha Vir, α Vir), is the brightest object in the constellation of Virgo and one of the 20 brightest stars in the night sky. Analysis of its parallax shows that it is located 250 ± 10 light years from the Sun. It is a spectroscopic binary star and rotating ellipsoidal variable; a system whose two stars are so close together they are egg-shaped rather than spherical, and can only be separated by their spectra. The primary is a blue giant and a variable star of the Beta Cephei type.\nSpica, along with Arcturus and Denebola or Regulus depending on the source, is part of the Spring Triangle asterism, and by extension, also of the Great Diamond together with the star Cor Caroli.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Virgo_constellation_map.svg/1000px-Virgo_constellation_map.svg.png"
+    },
+    {
+        "name": "Alcor (star)",
+        "summary": "Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major. The two both lie about 83 light-years away from the Sun, as measured by the Hipparcos astrometry satellite.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ursa_Major_constellation_map.svg/1000px-Ursa_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Eta Ursae Majoris",
+        "summary": "Eta Ursae Majoris (η Ursae Majoris, abbreviated Eta UMa, η UMa), also named Alkaid, is a star in the constellation of Ursa Major. It is the most eastern (leftmost) star in the Big Dipper (Plough) asterism. However, unlike most stars of the Big Dipper, it is not a member of the Ursa Major moving group. With an apparent visual magnitude of +1.84, it is the third-brightest star in the constellation and one of the brightest stars in the night sky.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ursa_Major_constellation_map.svg/1000px-Ursa_Major_constellation_map.svg.png"
+    },
+    {
+        "name": "Eta Boötis",
+        "summary": "Eta Boötis (η Boötis, abbreviated Eta Boo, η Boo) is a binary star in the constellation of Boötes. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 37 light-years (11 parsecs) distant from the Sun. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It forms a double star with the star BD+19 2726.As a constituent of a double pair, Eta Boötis is also designated WDS J13547+1824A, with its two components being designated Aa (also named Muphrid) and Ab. (As part of a binary pair, they are also designated Eta Boötis A and B, respectively.) BD +19 2726 is also designated WDS J13547+1824B.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bo%C3%B6tes_constellation_map.svg/777px-Bo%C3%B6tes_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Centauri",
+        "summary": "Beta Centauri (Latinised from β Centauri, abbreviated Beta Cen, β Cen), also named Hadar, is a triple star system in the southern constellation of Centaurus. The system's combined apparent visual magnitude of 0.61 makes it the second-brightest object in Centaurus and one of the brightest \"stars\" in the night sky. According to parallax measurements from the astrometric Hipparcos satellite, the distance to this system is about 390 ± 20 light-years (120 ± 6 parsecs).Beta Centauri is well known in the Southern Hemisphere as the inner of the two \"Pointers\" to the asterism known as the Southern Cross. A line made from the other pointer, Alpha Centauri, through Beta Centauri leads to within a few degrees of Gacrux, the star at the north end of the cross. Using Gacrux, a navigator can draw a line with Acrux at the south end to effectively determine south.\n\n",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centaurus_constellation_map.svg/1000px-Centaurus_constellation_map.svg.png"
+    },
+    {
+        "name": "Thuban",
+        "summary": "Thuban, also designated Alpha Draconis (α Draconis, abbreviated Alpha Dra, α Dra), is a star (or star system) in the constellation of Draco. A relatively inconspicuous star in the night sky of the Northern Hemisphere, it is historically significant as having been the north pole star from the 4th to 2nd millennium BC.\nEven though Johann Bayer gave Thuban the designation Alpha, its apparent magnitude of 3.65 means it is 3.7 times fainter than the brightest star in the constellation, Gamma Draconis (Eltanin), whose apparent magnitude is 2.24.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Draco_constellation_map.svg/901px-Draco_constellation_map.svg.png"
+    },
+    {
+        "name": "Theta Centauri",
+        "summary": "Theta Centauri (θ Centauri, abbreviated Theta Cen, θ Cen), also named Menkent, is a star in the southern constellation of Centaurus, the centaur. With an apparent visual magnitude of +2.06, it is the fourth-brightest member of the constellation. Based on parallax measurements obtained during the Hipparcos mission, it is about 58.8 light-years (18.0 parsecs) distant from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Centaurus_IAU.svg/1000px-Centaurus_IAU.svg.png"
+    },
+    {
+        "name": "Arcturus",
+        "summary": "Arcturus, also designated α Boötis (Latinized to Alpha Boötis, abbreviated Alpha Boo, α Boo), is the brightest star in the constellation of Boötes, the fourth-brightest in the night sky, and the brightest in the northern celestial hemisphere. Together with Spica and Denebola (or Regulus, depending on the source), Arcturus is part of the Spring Triangle asterism and, by extension, also of the Great Diamond along with the star Cor Caroli.\nRelatively close at 36.7 light-years from the Sun, Arcturus is a red giant of spectral type K0III—an ageing star around 7.1 billion years old that has used up its core hydrogen and moved off the main sequence. It is 1.08±0.06 times as massive as the Sun, but has expanded to 25.4±0.2 times its diameter and is around 170 times as luminous.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bo%C3%B6tes_IAU.svg/814px-Bo%C3%B6tes_IAU.svg.png"
+    },
+    {
+        "name": "Proxima Centauri",
+        "summary": "Proxima Centauri (from Latin, meaning 'nearest [star] of Centaurus'), or Alpha Centauri C, is a red dwarf, a small low-mass star, about 4.244 light-years (1.301 pc) from the Sun in the constellation of Centaurus. It was discovered in 1915 by Robert Innes and is the nearest-known star to the Sun. With a quiescent apparent magnitude of 11.13, it is too faint to be seen with the naked eye. Proxima Centauri forms a third component of the Alpha Centauri system, currently with a separation of about 12,950 AU (1.94 trillion km) and an orbital period of 550,000 years. At present Proxima is 2.18° to the southwest of Alpha Centauri.Because of Proxima Centauri's proximity to Earth, its angular diameter can be measured directly. The star is about one-seventh the diameter of the Sun. It has a mass about an eighth of the Sun's mass (M☉), and its average density is about 33 times that of the Sun. Although it has a very low average luminosity, Proxima is a flare star that undergoes random dramatic increases in brightness because of magnetic activity. The star's magnetic field is created by convection throughout the stellar body, and the resulting flare activity generates a total X-ray emission similar to that produced by the Sun. The mixing of the fuel at Proxima Centauri's core through convection and its relatively low energy-production rate mean that it will be a main-sequence star for another four trillion years, or nearly 300 times the current age of the universe.In 2016, the European Southern Observatory announced the discovery of Proxima Centauri b, a planet orbiting the star at a distance of roughly 0.05 AU (7.5 million km) with an orbital period of approximately 11.2 Earth days. Its estimated mass is at least 1.3 times that of the Earth. The equilibrium temperature of Proxima b is estimated to be within the range of where water could exist as liquid on its surface, thus placing it within the habitable zone of Proxima Centauri, although because Proxima Centauri is a red dwarf and a flare star, whether it could support life is disputed.\nPrevious searches for orbiting companions had ruled out the presence of brown dwarfs and supermassive planets.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg/1000px-New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg"
+    },
+    {
+        "name": "Alpha Centauri",
+        "summary": "Alpha Centauri (Latinized from α Centauri, abbreviated Alpha Cen or α Cen) is the closest star system to the Solar System at 4.37 light-years (1.34 pc) from the Sun. It is a triple star system, consisting of three stars: α Centauri A (officially Rigil Kentaurus), α Centauri B (officially Toliman), and α Centauri C (officially Proxima Centauri). \nAlpha Centauri A and B are Sun-like stars (Class G and K), and together they form the binary star Alpha Centauri AB. To the naked eye, the two main components appear to be a single star with an apparent magnitude of −0.27, forming the brightest star in the southern constellation of Centaurus and the third-brightest in the night sky, outshone only by Sirius and Canopus.\nAlpha Centauri A has 1.1 times the mass and 1.519 times the luminosity of the Sun, while Alpha Centauri B is smaller and cooler, at 0.907 times the Sun's mass and 0.445 times its luminosity. The pair orbit about a common centre with an orbital period of 79.91 years. Their elliptical orbit is moderately eccentric, greater than that of Mercury, so that the distance between A and B varies from nearly that between Pluto and the Sun (35.6 astronomical units), to that between Saturn and the Sun (11.2 AU).\nAlpha Centauri C, or Proxima Centauri, is a small and faint red dwarf (Class M). Though not visible to the naked eye, Proxima Centauri is the closest star to the Sun at a distance of 4.24 light-years (1.30 pc), being slightly closer than Alpha Centauri AB at a distance of 4.37 light-years (1.34 pc). Currently, the distance between Proxima Centauri and Alpha Centauri AB is about 13,000 astronomical units (0.21 ly), equivalent to about 430 times the radius of Neptune's orbit. Proxima Centauri b is an Earth-sized exoplanet in the habitable zone of Proxima Centauri; it was discovered in 2016.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alpha%2C_Beta_and_Proxima_Centauri_%281%29.jpg/1000px-Alpha%2C_Beta_and_Proxima_Centauri_%281%29.jpg"
+    },
+    {
+        "name": "Epsilon Boötis",
+        "summary": "Epsilon Boötis (ε Boötis, abbreviated Epsilon Boo, ε Boo), also named Izar, is a binary star in the northern constellation of Boötes. The star system can be viewed with the unaided eye at night, but resolving the pair with a small telescope is challenging; an aperture of 76 mm (3.0 in) or greater is required.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bo%C3%B6tes_IAU.svg/814px-Bo%C3%B6tes_IAU.svg.png"
+    },
+    {
+        "name": "Beta Ursae Minoris",
+        "summary": "Beta Ursae Minoris (β Ursae Minoris, abbreviated Beta UMi, β UMi), also named Kochab, is the brightest star in the bowl of the Little Dipper asterism (which is part of the constellation of Ursa Minor), and only slightly fainter than Polaris, the northern pole star and brightest star in Ursa Minor. Kochab is 16 degrees from Polaris and has an apparent visual magnitude of 2.08. The distance to this star from the Sun can be deduced from the parallax measurements made during the Hipparcos mission, yielding a value of 130.9 light-years (40.1 parsecs).Amateur astronomers can use Kochab as a very precise guide for setting up a telescope, as the celestial north pole is located 43 arcminutes away from Polaris, very close to the line connecting Polaris with Kochab.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ursa_Minor_IAU.svg/901px-Ursa_Minor_IAU.svg.png"
+    },
+    {
+        "name": "Alpha Librae",
+        "summary": "Alpha Librae (α Librae, abbreviated Alpha Lib, α Lib), is a double star and despite its 'alpha' designation the second-brightest star in the constellation of Libra. The two components are designated α¹ Librae and α² Librae. The system bore the traditional name of Zubenelgenubi, though the International Astronomical Union now regards that name as only applying to α² Librae.Alpha² Librae is 0.33 degrees north of the ecliptic so it can be occulted by the Moon and (very rarely) by planets. It was occulted by Venus on October 25, 1947; the next occultation by a planet will be by Mercury on 10 November 2052.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Libra_IAU.svg/1000px-Libra_IAU.svg.png"
+    },
+    {
+        "name": "Beta Librae",
+        "summary": "Beta Librae (β Librae, abbreviated Beta Lib, β Lib), also named Zubeneschamali, is (despite its 'beta' designation) the brightest star in the zodiac constellation of Libra. From parallax measurements, its distance can be estimated as 185 light-years (57 parsecs) from the Sun.The apparent visual magnitude of this star is 2.6. According to Eratosthenes Beta Librae was observed to be brighter than Antares. Ptolemy, 350 years later, said it was as bright as Antares. The discrepancy may be due to Antares becoming brighter, but this is not known for certain. It could simply be caused by Beta Librae being a variable star, showing a present-day variability of 0.03 of a magnitude.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Libra_IAU.svg/1000px-Libra_IAU.svg.png"
+    },
+    {
+        "name": "Alpha Coronae Borealis",
+        "summary": "Alpha Coronae Borealis (α Coronae Borealis, abbreviated Alpha CrB, α CrB), also named Alphecca, is an eclipsing binary star in the constellation of Corona Borealis. It is located about 75 light years from the Sun and contains two main sequence stars, one class A and one class G.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Corona_Borealis_constellation_map.svg/1000px-Corona_Borealis_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Serpentis",
+        "summary": "Alpha Serpentis (α Serpentis, abbreviated Alpha Ser, α Ser), also named Unukalhai, is a double star in the head (Serpens Caput) of the equatorial constellation of Serpens. With an apparent visual magnitude of 2.6, this star is the brightest in the constellation and it can be viewed with the naked eye from most of the Earth. Parallax measurements yield an estimated distance of about 74 light-years (23 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Serpens_Caput_IAU.svg/767px-Serpens_Caput_IAU.svg.png"
+    },
+    {
+        "name": "Delta Scorpii",
+        "summary": "Delta Scorpii (δ Scorpii, abbreviated Delta Sco, δ Sco) is a binary star (the presence of a third star in the system is being debated) in the constellation of Scorpius. The primary component is named Dschubba.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Scorpius_constellation_map.svg/1000px-Scorpius_constellation_map.svg.png"
+    },
+    {
+        "name": "Graffias",
+        "summary": "Graffias is the proper name for some stars in the constellations between Scorpius and Libra.\nIt can refer to:\n\nβ Sco; later transferred from ξ Sco.\nξ Sco (also 51 Lib); applied to Bayer's star list in his Uranometria.\nBurritt's ξ of Libra; applied to Burritt's star map.\nζ Sco; applied to Becvar's star list, as Grafias.",
+        "imgLink": ""
+    },
+    {
+        "name": "Antares",
+        "summary": "Antares (), also designated α Scorpii (Latinised to Alpha Scorpii, abbreviated Alpha Sco, α Sco), is on average the fifteenth-brightest star in the night sky, and the brightest object in the constellation of Scorpius. Distinctly reddish when viewed with the naked eye, Antares is a slow irregular variable star that ranges in brightness from apparent magnitude +0.6 to +1.6. Often referred to as \"the heart of the scorpion\", Antares is flanked by σ Scorpii and τ Scorpii in the center of the constellation.\nClassified as a red supergiant of spectral type M1.5Iab-Ib, Antares A is the brightest, most massive, and most evolved stellar member of the nearest OB association (the Scorpius–Centaurus Association). Antares is a member of the Upper Scorpius subgroup of the Scorpius–Centaurus Association, which contains thousands of stars with mean age 11 million years at a distance of approximately 170 parsecs (550 ly). Its exact size remains uncertain, but if placed at the center of the Solar System it would reach to somewhere between the orbits of Mars and Jupiter. Its mass is calculated to be around 12 times that of the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Scorpius_IAU.svg/808px-Scorpius_IAU.svg.png"
+    },
+    {
+        "name": "Beta Herculis",
+        "summary": "Beta Herculis (β Herculis, abbreviated Beta Her, β Her), also named Kornephoros, is a binary star and the brightest star in the northern constellation of Hercules at a base apparent visual magnitude of 2.81. This is a suspected variable star with an apparent magnitude that may rise as high as 2.76. Based upon parallax measurements, it is located at a distance of 139 light-years (43 parsecs) from the Sun.Although Beta Herculis appears to the naked eye to be a single star, in July 1899 the American astronomer W. W. Campbell discovered from spectroscopic measurements that its radial velocity varies, and concluded that it has a companion.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hercules_constellation_map.svg/901px-Hercules_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Trianguli Australis",
+        "summary": "Alpha Trianguli Australis (α Trianguli Australis, abbreviated Alpha TrA, α TrA), also named Atria, is the brightest star in the southern constellation of Triangulum Australe, forming an apex of a triangle with Beta and Gamma Trianguli Australis that gives the constellation its name (Latin for southern triangle).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Triangulum_Australe_IAU.svg/1000px-Triangulum_Australe_IAU.svg.png"
+    },
+    {
+        "name": "Alpha Herculis",
+        "summary": "Alpha Herculis (α Herculis, abbreviated Alpha Her, α Her), also designated 64 Herculis, is a multiple star system in the constellation of Hercules. Appearing as a single point of light to the naked eye, it is resolvable into a number of components through a telescope. It has a combined apparent magnitude of 3.08, although the brightest component is variable in brightness. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 360 light-years (110 parsecs) distant from the Sun.It consists of two binary pairs in mutual orbit designated α¹ Herculis or α Herculis A (the brightest of the two) and α² Herculis or α Herculis B. A's two components are themselves designated α Herculis Aa (also named Rasalgethi) and Ab; B's as α Herculis Ba and Bb.\nAlpha Herculis also forms the A and B components of a wider system designated WDS J17146+1423 with two additional visual companions designated WDS J17146+1423C and D.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hercules_constellation_map.svg/901px-Hercules_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Draconis",
+        "summary": "Beta Draconis (β Draconis, abbreviated Beta Dra, β Dra) is a binary star and the third-brightest star in the northern circumpolar constellation of Draco. With an apparent visual magnitude of 2.79, it is bright enough to be easily seen with the naked eye. Based upon parallax measurements from the Hipparcos astrometry satellite, it lies at a distance of about 380 light-years (120 parsecs) from the Sun.The two components are designated Beta Draconis A (also named Rastaban) and B.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Draco_constellation_map.svg/901px-Draco_constellation_map.svg.png"
+    },
+    {
+        "name": "Lambda Scorpii",
+        "summary": "Lambda Scorpii (λ Scorpii, abbreviated Lambda Sco, λ Sco), also named Shaula, is (despite being designated 'Lambda') the second-brightest star system in the constellation of Scorpius, and one of the brightest stars in the nighttime sky.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Scorpius_constellation_map.svg/1000px-Scorpius_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Ophiuchi",
+        "summary": "Alpha Ophiuchi (α Ophiuchi, abbreviated Alpha Oph, α Oph), also called Rasalhague, is a binary star and the brightest star in the constellation of Ophiuchus.\n\n",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ophiuchus_constellation_map.svg/887px-Ophiuchus_constellation_map.svg.png"
+    },
+    {
+        "name": "Theta Scorpii",
+        "summary": "Theta Scorpii (θ Scorpii, abbreviated Theta Sco, θ Sco) is a binary star in the southern zodiac constellation of Scorpius. The apparent visual magnitude of this star is +1.87, making it readily visible to the naked eye and one of the brightest stars in the night sky. It is sufficiently near that the distance can be measured directly using the parallax technique and such measurements obtained during the Hipparcos mission yield an estimate of approximately 300 light-years (90 parsecs) from the Sun.The two components are designated Theta Scorpii A (also named Sargas) and B.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Scorpius_constellation_map.svg/1000px-Scorpius_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Ophiuchi",
+        "summary": "Beta Ophiuchi (β Ophiuchi, abbreviated Beta Oph, β Oph), also named Cebalrai, is a star in the equatorial constellation of Ophiuchus. The apparent visual magnitude of this star is 2.7, which is readily visible to the naked eye even from urban skies. The distance to this star can be estimated using parallax measurements, yielding a value of 81.8 light-years (25.1 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ophiuchus_IAU.svg/813px-Ophiuchus_IAU.svg.png"
+    },
+    {
+        "name": "Gamma Draconis",
+        "summary": "Gamma Draconis (γ Draconis, abbreviated Gamma Dra, γ Dra), also named Eltanin, is a star in the northern constellation of Draco. Contrary to its gamma-designation (historically third-ranked), it is the brightest star in Draco at magnitude 2.4, outshining Rastaban (Beta Draconis) by nearly half a magnitude. In 1.5 million years, Eltanin will pass within 28 light years of Earth. For a period, if its current absolute magnitude does not change, it will be the brightest star in the night sky, nearly as bright as Sirius is at present.It is by far the brightest star having a zenith above a point near London (and thus Leipzig, Düsseldorf, Astana and Calgary) which occurs near midnight (24:00h) at London which led to its vaunting in these places as the \"zenith star\" or \"London zenith star\". From other locations it has a nearby bright, well-known star in Lyra in night sky; finding Vega, Eltanin is the red star just north-northwest of it.\nEltanin is at a distance of 154.3 light-years (47.3 parsecs) from the Sun, as determined by parallax measurements from the Hipparcos astrometry satellite. In 1728, while unsuccessfully attempting to measure the parallax of this star, James Bradley discovered the aberration of light resulting from the movement of the Earth. Bradley's discovery confirmed Copernicus' theory that the Earth revolved around the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Draco_constellation_map.svg/901px-Draco_constellation_map.svg.png"
+    },
+    {
+        "name": "Barnard's Star",
+        "summary": "Barnard's Star  is a very-low-mass red dwarf about 6 light-years away from Earth in the constellation of Ophiuchus. It is the fourth nearest known individual star to the Sun (after the three components of the Alpha Centauri system) and the closest star in the Northern Celestial Hemisphere. Despite its proximity, the star has a dim apparent magnitude of +9.5 and is invisible to the unaided eye; it is much brighter in the infrared than in visible light.\nThe star is named after the American astronomer E. E. Barnard. He was not the first to observe the star (it appeared on Harvard University plates in 1888 and 1890), but in 1916 he measured its proper motion as 10.3 arcseconds per year relative to the Sun, the highest known for any star.Barnard's Star is among the most studied red dwarfs because of its proximity and favorable location for observation near the celestial equator. Historically, research on Barnard's Star has focused on measuring its stellar characteristics, its astrometry, and also refining the limits of possible extrasolar planets. Although Barnard's Star is an ancient star, it still experiences star flare events, one being observed in 1998.\nFrom the early 1960s to the early 1970s, Peter van de Kamp argued that there were one or more gas giants in orbit around it. His specific claims of large gas giants were refuted in the mid-1970s after much debate. \nIn November 2018 a candidate super-Earth planetary companion known as Barnard's Star b was reported to orbit Barnard's Star. It is believed to have 3.2 M⊕ (Earth masses) and orbit at 0.4 au.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/1/18/Barnardstar2006.jpg"
+    },
+    {
+        "name": "Gamma2 Sagittarii",
+        "summary": "Gamma² Sagittarii (γ² Sagittarii, abbreviated Gamma² Sgr, γ² Sgr), also named Alnasl, is a 3rd-magnitude star in the zodiac constellation of Sagittarius. The location of this star forms the tip of the arrow in the bow of Sagittarius the Centaur. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 96.9 light-years (29.7 parsecs) from the Sun. It has an apparent visual magnitude of +2.98, making it the seventh-brightest star in the constellation.\nIt forms part of a double star along with a fainter optical companion designated Gamma¹ Sagittarii located about 50 arcminutes north of this star. The latter is a magnitude 4.7 Cepheid variable star that also has the variable star designation W Sagittarii.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sagittarius_constellation_map.svg/1000px-Sagittarius_constellation_map.svg.png"
+    },
+    {
+        "name": "Delta Sagittarii",
+        "summary": "Delta Sagittarii (δ Sagittarii, abbreviated Delta Sgr, δ Sgr), also named Kaus Media, is a double star in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of this star is +2.70, making it easily visible to the naked eye. Parallax measurements place the distance at roughly 348 light-years (107 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sagittarius_IAU.svg/812px-Sagittarius_IAU.svg.png"
+    },
+    {
+        "name": "Epsilon Sagittarii",
+        "summary": "Epsilon Sagittarii (ε Sagittarii, abbreviated Epsilon Sgr, ε Sgr), also named Kaus Australis, is a binary star system in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of +1.85 makes it the brightest star in the constellation. Based upon parallax measurements, this star is around 143 light-years (44 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sagittarius_constellation_map.svg/1000px-Sagittarius_constellation_map.svg.png"
+    },
+    {
+        "name": "Lambda Sagittarii",
+        "summary": "Lambda Sagittarii (λ Sagittarii, abbreviated Lambda Sgr, λ Sgr), also named Kaus Borealis, is a star in the southern constellation of Sagittarius. The star marks the top of the Archer's bow.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sagittarius_constellation_map.svg/1000px-Sagittarius_constellation_map.svg.png"
+    },
+    {
+        "name": "Vega",
+        "summary": "Vega, also designated α Lyrae (Latinised to Alpha Lyrae, abbreviated Alpha Lyr or α Lyr), is the brightest star in the constellation of Lyra, the fifth-brightest star in the night sky, and the second-brightest star in the northern celestial hemisphere, after Arcturus. It is relatively close at only 25 light-years from the Sun, and, together with Arcturus and Sirius, one of the most luminous stars in the Sun's neighborhood.\nVega has been extensively studied by astronomers, leading it to be termed “arguably the next most important star in the sky after the Sun”. Vega was the northern pole star around 12,000 BC and will be so again around the year 13,727, when the declination will be +86°14'. Vega was the first star other than the Sun to be photographed and the first to have its spectrum recorded. It was one of the first stars whose distance was estimated through parallax measurements. Vega has functioned as the baseline for calibrating the photometric brightness scale and was one of the stars used to define the mean values for the UBV photometric system.\nVega is only about a tenth of the age of the Sun, but since it is 2.1 times as massive, its expected lifetime is also one tenth of that of the Sun; both stars are at present approaching the midpoint of their life expectancies. Vega has an unusually low abundance of the elements with a higher atomic number than that of helium. Vega is also a variable star that varies slightly in brightness. It is rotating rapidly with a velocity of 236 km/s at the equator. This causes the equator to bulge outward due to centrifugal effects, and, as a result, there is a variation of temperature across the star's photosphere that reaches a maximum at the poles. From Earth, Vega is observed from the direction of one of these poles.Based on an observed excess emission of infrared radiation, Vega appears to have a circumstellar disk of dust. This dust is likely to be the result of collisions between objects in an orbiting debris disk, which is analogous to the Kuiper belt in the Solar System. Stars that display an infrared excess due to dust emission are termed Vega-like stars.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vega_in_lyra.svg/1000px-Vega_in_lyra.svg.png"
+    },
+    {
+        "name": "The Ensigns of Command",
+        "summary": "\"The Ensigns of Command\" is the second episode of the third season of the syndicated American science fiction television series Star Trek: The Next Generation, the 50th episode overall, first broadcast on October 2, 1989.\nSet in the 24th century, the series follows the adventures of the crew of the Federation starship USS Enterprise-D. In this episode, Commander Data (Brent Spiner) must convince a reluctant colony of more than 15,000 to prepare for immediate evacuation while Captain Picard (Patrick Stewart) attempts to negotiate a three-week reprieve from aliens intent on colonizing the planet themselves in four days and wiping out any humans found there.",
+        "imgLink": ""
+    },
+    {
+        "name": "Nunki",
+        "summary": "Nunki may mean:\n\nNunki (Game), Bahá'í-Activity-Board-Game\nSigma Sagittarii, star in the constellation Sagittarius",
+        "imgLink": ""
+    },
+    {
+        "name": "Pi Sagittarii",
+        "summary": "Pi Sagittarii (π Sagittarii, abbreviated Pi Sgr, π Sgr) is a triple star system in the zodiac constellation of Sagittarius. It has an apparent visual magnitude of +2.89, bright enough to be readily seen with the naked eye. Based upon parallax measurements, it is roughly 510 light-years (160 parsecs) from the Sun.The three components are designated Pi Sagittarii A (also named Albaldah), B and C.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sagittarius_constellation_map.svg/1000px-Sagittarius_constellation_map.svg.png"
+    },
+    {
+        "name": "Albireo",
+        "summary": "Albireo is the traditional name for the double star also designated Beta Cygni (β Cygni, abbreviated Beta Cyg, β Cyg), although the International Astronomical Union now regards the name as only applying to the brightest component. Although designated 'beta', it is fainter than Gamma Cygni, Delta Cygni, and Epsilon Cygni and is the fifth-brightest point of light in the constellation of Cygnus. Appearing to the naked eye to be a single star of magnitude 3, viewing through even a low-magnification telescope resolves it into its two components. The brighter yellow star (actually itself a very close binary system) makes a striking colour contrast with its fainter blue companion.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Position_beta_Cyg.png"
+    },
+    {
+        "name": "Campbell's Hydrogen Star",
+        "summary": "star HD 184738, also known as Campbell’s hydrogen star. It is surrounded by plumes of reddish gas — the fiery red and orange hues are caused by glowing gases, including hydrogen and nitrogen. HD 184738 is at the centre of a small planetary nebula. The star itself is known as a  [WC] star, a rare class resembling their much more massive counterparts — Wolf-Rayet stars. These stars are named after two French astronomers, Charles Wolf and Georges Rayet, who first identified them in the mid-nineteenth century. Wolf-Rayet stars are hot stars, perhaps 20 times more massive than the Sun, that are rapidly blowing away material and losing mass. [WC] stars are rather different: they are low-mass Sun-like stars at the end of their lives. While these stars have recently ejected much of their original mass, the hot stellar core is still losing mass at a high rate, creating a hot wind. It is these winds that cause them to resemble Wolf-Rayet stars. However, astronomers can look more closely at the composition of these winds to tell the stars apart; [WC] stars are identified by the carbon and oxygen in their winds. Some true Wolf-Rayet stars are rich in nitrogen instead, but this is very rare among their low-mass counterparts. HD 184738 is also very bright in the infrared part of the spectrum, and is surrounded by dust very similar to the material that the Earth formed from. The origin of this dust is uncertain. A version of this image was entered into the Hubble’s Hidden Treasures image processing competition by contestant Jean-Christophe Lambry. Credit: ESA/Hubble & NASA Acknowledgement: Jean-Christophe Lambry",
+        "imgLink": "https://cdn.spacetelescope.org/archives/images/thumb700x/potw1337a.jpg"
+    },
+    {
+        "name": "Gamma Aquilae",
+        "summary": "Gamma Aquilae (γ Aquilae, abbreviated Gamma Aql, γ Aql), also known as Tarazed, is a star in the constellation of Aquila. It has an apparent visual magnitude of 2.712, making it readily visible to the naked eye at night. Parallax measurements place it at a distance of 395 light-years (121 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Aquila_constellation_map.svg/1000px-Aquila_constellation_map.svg.png"
+    },
+    {
+        "name": "Altair",
+        "summary": "Altair () (from Arabic \"al-ṭā'ir\"), also designated α Aquilae (Latinised to Alpha Aquilae, abbreviated Alpha Aql, α Aql), is the brightest star in the constellation of Aquila and the twelfth brightest star in the night sky. It is currently in the G-cloud—a nearby interstellar cloud, which is an accumulation of gas and dust. Altair is an A-type main sequence star with an apparent visual magnitude of 0.77 and is one of the vertices of the Summer Triangle asterism (the other two vertices are marked by Deneb and Vega). It is 16.7 light-years (5.13 parsecs) from the Sun and is one of the closest stars visible to the naked eye.Altair rotates rapidly, with a velocity at the equator of approximately 286 km/s. This is a significant fraction of the star's estimated breakup speed of 400 km/s. A study with the Palomar Testbed Interferometer revealed that Altair is not spherical, but is flattened at the poles due to its high rate of rotation. Other interferometric studies with multiple telescopes, operating in the infrared, have imaged and confirmed this phenomenon.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aquila_charta.png/1000px-Aquila_charta.png"
+    },
+    {
+        "name": "Beta Aquilae",
+        "summary": "Beta Aquilae (β Aquilae, abbreviated Beta Aql, β Aql) is a binary star in the equatorial constellation of Aquila. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 44.7 light-years from the Sun.\nIts two components are designated Beta Aquilae A (also named Alshain) and B.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Aquila_constellation_map.png/1000px-Aquila_constellation_map.png"
+    },
+    {
+        "name": "Cygnus X-1",
+        "summary": "Cygnus X-1 (abbreviated Cyg X-1) is a galactic X-ray source in the constellation Cygnus, and the first such source widely accepted to be a black hole. It was discovered in 1964 during a rocket flight and is one of the strongest X-ray sources seen from Earth, producing a peak X-ray flux density of 2.3×10−23 Wm−2 Hz−1 (2.3×103 Jansky). It remains among the most studied astronomical objects in its class. The compact object is now estimated to have a mass about 14.8 times the mass of the Sun and has been shown to be too small to be any known kind of normal star, or other likely object besides a black hole. If so, the radius of its event horizon has 300 km \"as upper bound to the linear dimension of the source region\" of occasional X-ray bursts lasting only for about 1 ms.Cygnus X-1 belongs to a high-mass X-ray binary system, located about 6,070 light years from the Sun, that includes a blue supergiant variable star designated HDE 226868 which it orbits at about 0.2 AU, or 20% of the distance from the Earth to the Sun. A stellar wind from the star provides material for an accretion disk around the X-ray source. Matter in the inner disk is heated to millions of degrees, generating the observed X-rays. A pair of jets, arranged perpendicular to the disk, are carrying part of the energy of the infalling material away into interstellar space.This system may belong to a stellar association called Cygnus OB3, which would mean that Cygnus X-1 is about five million years old and formed from a progenitor star that had more than 40 solar masses. The majority of the star's mass was shed, most likely as a stellar wind. If this star had then exploded as a supernova, the resulting force would most likely have ejected the remnant from the system. Hence the star may have instead collapsed directly into a black hole.Cygnus X-1 was the subject of a friendly scientific wager between physicists Stephen Hawking and Kip Thorne in 1974, with Hawking betting that it was not a black hole. He conceded the bet in 1990 after observational data had strengthened the case that there was indeed a black hole in the system. This hypothesis lacks direct empirical evidence but has generally been accepted from indirect evidence.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cygnus_IAU.svg/813px-Cygnus_IAU.svg.png"
+    },
+    {
+        "name": "Gamma Cygni",
+        "summary": "Gamma Cygni (γ Cygni, abbreviated Gamma Cyg, γ Cyg), also named Sadr, is a star in the northern constellation of Cygnus, forming the intersection of an asterism of five stars called the Northern Cross. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 1,800 light-years (560 parsecs) from the Sun.It forms the primary or 'A' component of a multiple star system designated WDS J20222+4015 (the secondary or 'BC' component is CCDM J20222+4015BC, a close pair of stars 40\" away from γ Cygni).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cygnus_constellation_map.svg/1000px-Cygnus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Pavonis",
+        "summary": "Alpha Pavonis (α Pavonis, abbreviated Alpha Pav, α Pav), also named Peacock, is a binary star in the southern constellation of Pavo, near the border with the constellation Telescopium.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pavo_constellation_map.svg/1000px-Pavo_constellation_map.svg.png"
+    },
+    {
+        "name": "Deneb",
+        "summary": "Deneb (), also designated α Cygni (Latinised alpha Cygni, abbreviated Alpha Cyg, α Cyg), is the brightest star in the constellation of Cygnus, the swan. It is one of the vertices of the asterism known as the Summer Triangle and forms the 'head' of the Northern Cross. It is the 19th brightest star in the night sky, with an apparent magnitude of 1.25. A blue-white supergiant, Deneb is also one of the most luminous stars. However, its exact distance (and hence luminosity) has been difficult to calculate; it is estimated to be somewhere between 55,000 and 196,000 times as luminous as the Sun, rivalling Rigel as the most inherently luminous star of first magnitude.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cygnus_constellation_map.png/1000px-Cygnus_constellation_map.png"
+    },
+    {
+        "name": "Gienah",
+        "summary": "Gienah was the traditional name of two stars, each marking a wing (Arabic al janāħ) of its constellation:\n\nGamma Corvi aka Gienah Corvi, in Corvus\nEpsilon Cygni aka Gienah Cygni, in CygnusThe International Astronomical Union approved the name Gienah for Gamma Corvi A in 2016 and Aljanah for Epsilon Cygni Aa in 2017.",
+        "imgLink": ""
+    },
+    {
+        "name": "Lacaille 8760",
+        "summary": "Lacaille 8760 (AX Microscopii) is a red dwarf star in the constellation Microscopium. Although it is generally too faint to be seen without a telescope, it is one of the nearest stars to the Sun at about 12.9 light-years' distance. At an apparent magnitude of +6.7, it may only be visible to the unaided eye under exceptionally good viewing conditions, under dark skies. It was originally listed in a 1763 catalog that was published posthumously by the French Abbé Nicolas Louis de Lacaille. He observed it in the southern sky while working from an observatory at the Cape of Good Hope.In the past Lacaille 8760 has been classified anywhere from spectral class K7 down to M2. In 1979 the Irish astronomer Patrick Byrne discovered that it is a flare star, and it was given the variable star designation AX Microscopii. As a flare star it is relatively quiet, only erupting on average less than once per day.\nLacaille 8760 orbits around the galaxy with a relatively high ellipticity of 0.23. Its closest approach to the Sun occurred about 20,000 years ago when it came within 12 light-years (3.7 parsecs). Due to its low mass (60% of the Sun), it has an expected lifespan of about 7.5 × 1010 years, seven times longer than the Sun's.\nDespite efforts by astronomers, as of 2011 no planets have been detected in orbit around this star.Lacaille 8760 is one of the largest and brightest red dwarfs known, with about 60% the mass and 51% the radius of the Sun.",
+        "imgLink": ""
+    },
+    {
+        "name": "Alpha Cephei",
+        "summary": "Alpha Cephei (α Cephei, abbreviated Alpha Cep, α Cep), also named Alderamin, is a second magnitude star in the constellation of Cepheus near the northern pole. The star is relatively close to Earth at 49 light years (ly).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cepheus_constellation_map.svg/820px-Cepheus_constellation_map.svg.png"
+    },
+    {
+        "name": "Beta Aquarii",
+        "summary": "Beta Aquarii (β Aquarii, abbreviated Beta Aqr, β Aqr) is a star in the constellation of Aquarius. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 540 light-years (165 parsecs) from the Sun. The primary or 'A' component is also named Sadalsuud.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aquarius_IAU.svg/1000px-Aquarius_IAU.svg.png"
+    },
+    {
+        "name": "Epsilon Pegasi",
+        "summary": "Epsilon Pegasi (Latinised from ε Pegasi, abbreviated Epsilon Peg, ε Peg), officially named Enif (EE-nif), is the brightest star in the northern constellation of Pegasus. With an average apparent visual magnitude of 2.4, this is a second-magnitude star that is readily visible to the naked eye. The distance to this star can be estimated using parallax measurements from the Hipparcos astrometry satellite, yielding a value of around 690 light-years (210 parsecs).\n\n",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pegasus_constellation_map.svg/1000px-Pegasus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Aquarii",
+        "summary": "Alpha Aquarii (α Aquarii, abbreviated Alpha Aqr, α Aqr), also named Sadalmelik, is a single star in the constellation of Aquarius. The apparent visual magnitude of 2.94 makes this the second-brightest star in Aquarius. Based upon parallax measurements made during the Hipparcos mission, it is located at a distance of roughly 520 light-years (160 parsecs) from the Sun.It forms the primary or 'A' component of a double star designated WDS J22058-0019 (the secondary or 'B' component is UCAC2 31789179).",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aquarius_constellation_map.svg/1000px-Aquarius_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Gruis",
+        "summary": "Alpha Gruis, Latinized from α Gruis, also named Alnair, is the brightest star in the southern constellation of Grus.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Grus_IAU.svg/1000px-Grus_IAU.svg.png"
+    },
+    {
+        "name": "Kruger 60",
+        "summary": "Kruger 60 (DO Cephei) is a binary star system located 13.15 light-years from the Sun. These red dwarf stars orbit each other every 44.6 years.",
+        "imgLink": ""
+    },
+    {
+        "name": "Eta Pegasi",
+        "summary": "Eta Pegasi (η Pegasi, abbreviated Eta Peg, η Peg), also named Matar, is a binary star in the constellation of Pegasus. The apparent visual magnitude of this star is +2.95, making it the fifth-brightest member of Pegasus. Based upon parallax measurements, the distance to this star is about 167 light-years (51 parsecs) from the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pegasus_IAU.svg/1000px-Pegasus_IAU.svg.png"
+    },
+    {
+        "name": "Babcock's star",
+        "summary": "",
+        "imgLink": ""
+    },
+    {
+        "name": "Fomalhaut",
+        "summary": "Fomalhaut, also designated Alpha Piscis Austrini (α Piscis Austrini, abbreviated Alpha PsA, α PsA) is the brightest star in the constellation of Piscis Austrinus and one of the brightest stars in the sky. It is a class A star on the main sequence approximately 25 light-years (7.7 pc) from the Sun as measured by the Hipparcos astrometry satellite. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is classified as a Vega-like star that emits excess infrared radiation, indicating it is surrounded by a circumstellar disk. Fomalhaut, K-type main-sequence star TW Piscis Austrini, and M-type, red dwarf star LP 876-10 constitute a triple system, even though the companions are separated by several degrees.Fomalhaut holds a special significance in extrasolar planet research, as it is the center of the first stellar system with an extrasolar planet candidate (designated Fomalhaut b, later named Dagon) imaged at visible wavelengths. The image was published in Science in November 2008. Fomalhaut is the third-brightest star (as viewed from Earth) known to have a planetary system, after the Sun and Pollux.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heic0821f.jpg/930px-Heic0821f.jpg"
+    },
+    {
+        "name": "Beta Pegasi",
+        "summary": "Beta Pegasi (β Pegasi, abbreviated Beta Peg, β Peg), also named Scheat, is a red giant star and the second-brightest star (after Epsilon Pegasi) in the constellation of Pegasus. It forms the upper right corner of the Great Square of Pegasus, a prominent rectangular asterism.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pegasus_constellation_map.svg/1000px-Pegasus_constellation_map.svg.png"
+    },
+    {
+        "name": "Alpha Pegasi",
+        "summary": "Alpha Pegasi (α Pegasi, abbreviated Alpha Peg, α Peg), also named Markab, is the third-brightest star in the constellation of Pegasus and one of the four stars in the asterism known as the Great Square of Pegasus.\nα Pegasi (Latinised to Alpha Pegasi) is the star's Bayer designation. It bore the traditional name Markab (or Marchab), which derived from an Arabic word مركب markab \"the saddle of the horse\", or is mistranscription of Mankib, which itself comes from an Arabic phrase منكب الفرس Mankib al-Faras \"(the Star of) the Shoulder (of the Constellation) of the Horse\" for Beta Pegasi. \nMarkab has a stellar classification of A0 IV, indicating that it is an A-type subgiant star that has exhausted the hydrogen at its core and has evolved beyond the main sequence. It is rotating rapidly, with a projected rotational velocity of 125 km/s giving a lower bound on the azimuthal velocity along the star's equator. The effective temperature of the photosphere is nearly 10,000 K and the star has expanded to nearly five times the radius of the Sun.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pegasus_IAU.svg/1000px-Pegasus_IAU.svg.png"
+    },
+    {
+        "name": "Lacaille 9352",
+        "summary": "Lacaille 9352 (Lac 9352) is a star in the southern constellation of Piscis Austrinus. With an apparent visual magnitude of 7.34, this star is too faint to be viewed with the naked eye even under excellent seeing conditions. Parallax measurements place it at a distance of about 10.74 light-years (3.29 parsecs) from Earth. It is the eleventh closest star system to the Solar System and is the closest star in the constellation Piscis Austrinus. The ChView simulation shows that its closest neighbour is the EZ Aquarii \ntriple star system at about 4.1 ly from Lacaille 9352.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nearby_Stars_%2814ly_Radius%29.svg/1000px-Nearby_Stars_%2814ly_Radius%29.svg.png"
+    },
+    {
+        "name": "P Eridani",
+        "summary": "p Eridani (6 Eri, DUN 5) is a binary star system in the constellation of Eridanus (the River) whose distance is approximately 26 light-years. It was found to be a double star in December 1825 by James Dunlop in Australia at his home at Paramatta, now spelt Parramatta.",
+        "imgLink": ""
+    }
+]

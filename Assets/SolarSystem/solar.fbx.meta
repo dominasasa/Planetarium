@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: c4c61dcf9be130c448ccb3c829ed690a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anneau
+    100002: BackLight
+    100004: Camero
+    100006: Camero1
+    100008: Camero_2010___Low_Poly
+    100010: Camero_2010___Low_Poly1
+    100012: Earth
+    100014: FillLight
+    100016: Jupiter
+    100018: KeyLight
+    100020: LightPreset
+    100022: Mars
+    100024: Mercury
+    100026: Neptune
+    100028: Pluto
+    100030: Saturn
+    100032: Saturne.001
+    100034: //RootNode
+    100036: Sun
+    100038: Uranus
+    100040: Venus
+    400000: anneau
+    400002: BackLight
+    400004: Camero
+    400006: Camero1
+    400008: Camero_2010___Low_Poly
+    400010: Camero_2010___Low_Poly1
+    400012: Earth
+    400014: FillLight
+    400016: Jupiter
+    400018: KeyLight
+    400020: LightPreset
+    400022: Mars
+    400024: Mercury
+    400026: Neptune
+    400028: Pluto
+    400030: Saturn
+    400032: Saturne.001
+    400034: //RootNode
+    400036: Sun
+    400038: Uranus
+    400040: Venus
+    2100000: b0b0b0
+    2100002: Carcamero_ma
+    2100004: Carcamero_ma1
+    2300000: anneau
+    2300002: Camero
+    2300004: Camero1
+    2300006: Earth
+    2300008: Jupiter
+    2300010: Mars
+    2300012: Mercury
+    2300014: Neptune
+    2300016: Pluto
+    2300018: Saturne.001
+    2300020: Sun
+    2300022: Uranus
+    2300024: Venus
+    3300000: anneau
+    3300002: Camero
+    3300004: Camero1
+    3300006: Earth
+    3300008: Jupiter
+    3300010: Mars
+    3300012: Mercury
+    3300014: Neptune
+    3300016: Pluto
+    3300018: Saturne.001
+    3300020: Sun
+    3300022: Uranus
+    3300024: Venus
+    4300000: Venus
+    4300002: Mercury
+    4300004: Camero
+    4300006: Earth
+    4300008: Camero1
+    4300010: Uranus
+    4300012: Sun
+    4300014: Pluto
+    4300016: anneau
+    4300018: Saturne.001
+    4300020: Neptune
+    4300022: Mars
+    4300024: Jupiter
+    10800000: BackLight
+    10800002: FillLight
+    10800004: KeyLight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,8 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: [{enabled: 1, path: Assets/MainMenu.unity, guid: e2f3bbcbee0c90344bd065cb828cf63e},
-    {enabled: 1, path: Assets/Models.unity, guid: 9a9df7d86c6325045890ed3466170ff6},
-    {enabled: 1, path: Assets/planetarium.unity, guid: b3592af45f4dcbe45ae0830fe9c6efb2},
-    {enabled: 1, path: Assets/Models.unity, guid: 9a9df7d86c6325045890ed3466170ff6}]
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: e2f3bbcbee0c90344bd065cb828cf63e
+  - enabled: 1
+    path: Assets/Models.unity
+    guid: 9a9df7d86c6325045890ed3466170ff6
+  - enabled: 1
+    path: Assets/planetarium.unity
+    guid: b3592af45f4dcbe45ae0830fe9c6efb2
+  - enabled: 0
+    path: Assets/Models.unity
+    guid: 9a9df7d86c6325045890ed3466170ff6
   m_configObjects: {}

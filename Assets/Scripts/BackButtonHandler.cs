@@ -1,16 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BackButtonHandler : MonoBehaviour
 {
-    LoadSceneOnClick lsoc = new LoadSceneOnClick();
     // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            lsoc.LoadByIndex(0);
+            SceneManager.LoadScene(0, LoadSceneMode.Single);
         }
     }
 }

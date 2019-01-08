@@ -1,10 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class MenuManager : MonoBehaviour
 {
-
+    public static MenuManager Instance { get; private set; }
     public int menuId = 0;
     public GameObject[] menuPanels;
     public GameObject WelcomePanel;
@@ -14,55 +12,29 @@ public class MenuManager : MonoBehaviour
     public GameObject ModelsScene;
     public GameObject SkyObjectInfo;
     public GameObject FiltersMenu;
-
-    Dictionary<string, int> menus = new Dictionary<string, int>()
-    {
-        { "welcome", 0 },
-        { "pointer", 1 },
-        { "credits", 2},
-        { "planetarium", 3},
-        { "models", 4},
-        { "skyObj", 5},
-        { "filters", 6 }
-    };
-
+    
     private void Awake()
     {
+        Destroy(Instance);
+        Instance = this;
+
         menuPanels = GameObject.FindGameObjectsWithTag("MainMenu");
 
-        WelcomePanel = GameObject.Find("WelcomePanel");
-        PointerPanel = GameObject.Find("PointerPanel");
-        Credits = GameObject.Find("Credits");
-        PlanetariumScene = GameObject.Find("PlanetariumScene");
-        ModelsScene = GameObject.Find("ModelsScene");
-        SkyObjectInfo = GameObject.Find("SkyObjectInfo");
-        FiltersMenu = GameObject.Find("FiltersMenu");
+        if (WelcomePanel == null) WelcomePanel = GameObject.Find("WelcomePanel");
+        if (PointerPanel == null) PointerPanel = GameObject.Find("PointerPanel");
+        if (Credits == null) Credits = GameObject.Find("Credits");
+        if (PlanetariumScene == null) PlanetariumScene = GameObject.Find("PlanetariumScene");
+        if (ModelsScene == null) ModelsScene = GameObject.Find("ModelsScene");
+        if (SkyObjectInfo == null) SkyObjectInfo = GameObject.Find("SkyObjectInfo");
+        if (FiltersMenu == null) FiltersMenu = GameObject.Find("FiltersMenu");
+        
+        switchToMenu(menuId);
     }
 
     // Use this for initialization
-    void Start()
-    {
-        switchToMenu(menuId);
-
-        //StartCoroutine(waitToFinishLoad(1));
-    }
-
-    IEnumerator waitToFinishLoad(int secs)
-    {
-        yield return new WaitForSeconds(secs);
-        switchToMenu(menuId);
-    }
-
-
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
 
-    }
-
-    public void switchToMenu(string id)
-    {
-        switchToMenu(menus[id]);
     }
 
     public void switchToMenu(int id)
@@ -78,7 +50,6 @@ public class MenuManager : MonoBehaviour
             case 0:
                 WelcomePanel.gameObject.SetActive(true);
                 break;
-
             case 1:
                 PointerPanel.gameObject.SetActive(true);
                 break;

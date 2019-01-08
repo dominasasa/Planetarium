@@ -167,7 +167,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7461a7b0cf97947fd9b9e4502fd2d07b, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 7461a7b0cf97947fd9b9e4502fd2d07b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -292,9 +292,8 @@ GameObject:
   - component: {fileID: 74092793}
   - component: {fileID: 74092792}
   - component: {fileID: 74092791}
-  - component: {fileID: 74092795}
   m_Layer: 5
-  m_Name: ButtonBack
+  m_Name: BackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -362,9 +361,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 74092795}
+      - m_Target: {fileID: 1383092251}
         m_MethodName: switchToMenu
-        m_Mode: 5
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -428,27 +427,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 74092789}
   m_CullTransparentMesh: 0
---- !u!114 &74092795
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 74092789}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d929f9f721320a45a799e9f5b69d23e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuId: 0
-  menuPanels: []
-  WelcomePanel: {fileID: 0}
-  PointerPanel: {fileID: 0}
-  Credits: {fileID: 0}
-  PlanetariumScene: {fileID: 0}
-  ModelsScene: {fileID: 0}
-  SkyObjectInfo: {fileID: 0}
-  FiltersMenu: {fileID: 0}
 --- !u!1 &80207706
 GameObject:
   m_ObjectHideFlags: 0
@@ -1042,33 +1020,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &333106817 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 166258, guid: 2ea12a2ab6365a64995624be5545cb0c,
-    type: 3}
-  m_PrefabInstance: {fileID: 909481929}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &333106818
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 333106817}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d929f9f721320a45a799e9f5b69d23e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuId: 0
-  menuPanels: []
-  WelcomePanel: {fileID: 0}
-  PointerPanel: {fileID: 0}
-  Credits: {fileID: 0}
-  PlanetariumScene: {fileID: 0}
-  ModelsScene: {fileID: 0}
-  SkyObjectInfo: {fileID: 0}
-  FiltersMenu: {fileID: 0}
 --- !u!1 &340070864
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,8 +1440,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 80207708}
   m_HandleRect: {fileID: 80207707}
   m_Direction: 2
-  m_Value: 0.49999994
-  m_Size: 0.23970528
+  m_Value: 0.50000006
+  m_Size: 0.14919207
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1665,7 +1616,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -1674,7 +1625,7 @@ PrefabInstance:
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 333106818}
+      objectReference: {fileID: 1383092251}
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: switchToMenu
@@ -1923,7 +1874,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -1932,7 +1883,7 @@ PrefabInstance:
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1787713236}
+      objectReference: {fileID: 1383092251}
     - target: {fileID: 11466256, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: switchToMenu
@@ -1993,14 +1944,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: pointer
       objectReference: {fileID: 0}
-    - target: {fileID: 22466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 11466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_Text
       value: Scan for poiner
@@ -2024,6 +1967,14 @@ PrefabInstance:
     - target: {fileID: 11466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 22466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
@@ -2097,7 +2048,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1187486286
 GameObject:
@@ -2307,10 +2258,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 22466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 11466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
       propertyPath: m_Text
       value: Center at me
@@ -2331,6 +2278,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 22466260, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ea12a2ab6365a64995624be5545cb0c, type: 3}
 --- !u!224 &1248320199 stripped
@@ -2339,6 +2290,71 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1248320198}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1383092250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1383092252}
+  - component: {fileID: 1383092251}
+  - component: {fileID: 1383092253}
+  m_Layer: 0
+  m_Name: ScriptHandler
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1383092251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383092250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d929f9f721320a45a799e9f5b69d23e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuId: 0
+  menuPanels: []
+  WelcomePanel: {fileID: 2014526331}
+  PointerPanel: {fileID: 483214211}
+  Credits: {fileID: 171702866}
+  PlanetariumScene: {fileID: 0}
+  ModelsScene: {fileID: 0}
+  SkyObjectInfo: {fileID: 0}
+  FiltersMenu: {fileID: 0}
+--- !u!4 &1383092252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383092250}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 597.05005, y: 1096.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1383092253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1383092250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ddd158249b9349bb2f519d2021c1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1408748664
 GameObject:
   m_ObjectHideFlags: 0
@@ -2351,8 +2367,6 @@ GameObject:
   - component: {fileID: 1408748667}
   - component: {fileID: 1408748666}
   - component: {fileID: 1408748665}
-  - component: {fileID: 1408748669}
-  - component: {fileID: 1408748670}
   - component: {fileID: 1408748671}
   m_Layer: 5
   m_Name: Canvas
@@ -2436,46 +2450,13 @@ RectTransform:
   - {fileID: 483214212}
   - {fileID: 171702867}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &1408748669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1408748664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d929f9f721320a45a799e9f5b69d23e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuId: 0
-  menuPanels: []
-  WelcomePanel: {fileID: 0}
-  PointerPanel: {fileID: 0}
-  Credits: {fileID: 0}
-  PlanetariumScene: {fileID: 0}
-  ModelsScene: {fileID: 0}
-  SkyObjectInfo: {fileID: 0}
-  FiltersMenu: {fileID: 0}
---- !u!114 &1408748670
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1408748664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f7ddd158249b9349bb2f519d2021c1c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1408748671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2523,7 +2504,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 14.9999695, y: 0}
   m_SizeDelta: {x: -30, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1543997718
@@ -2644,45 +2625,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_HorizontalFit: 0
   m_VerticalFit: 2
---- !u!1 &1787713234 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 166258, guid: 2ea12a2ab6365a64995624be5545cb0c,
-    type: 3}
-  m_PrefabInstance: {fileID: 1100827215}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1787713235
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1787713234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 04ce330092b79ce4a9dfe62490307143, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1787713236
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1787713234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d929f9f721320a45a799e9f5b69d23e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuId: 0
-  menuPanels: []
-  WelcomePanel: {fileID: 0}
-  PointerPanel: {fileID: 0}
-  Credits: {fileID: 0}
-  PlanetariumScene: {fileID: 0}
-  ModelsScene: {fileID: 0}
-  SkyObjectInfo: {fileID: 0}
-  FiltersMenu: {fileID: 0}
 --- !u!1 &1949737967
 GameObject:
   m_ObjectHideFlags: 0
@@ -2776,7 +2718,6 @@ GameObject:
   - component: {fileID: 1986924668}
   - component: {fileID: 1986924667}
   - component: {fileID: 1986924666}
-  - component: {fileID: 1986924670}
   m_Layer: 5
   m_Name: ButtonCredits
   m_TagString: Untagged
@@ -2846,9 +2787,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1986924670}
+      - m_Target: {fileID: 1383092251}
         m_MethodName: switchToMenu
-        m_Mode: 5
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2912,27 +2853,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1986924664}
   m_CullTransparentMesh: 0
---- !u!114 &1986924670
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1986924664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d929f9f721320a45a799e9f5b69d23e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuId: 0
-  menuPanels: []
-  WelcomePanel: {fileID: 0}
-  PointerPanel: {fileID: 0}
-  Credits: {fileID: 0}
-  PlanetariumScene: {fileID: 0}
-  ModelsScene: {fileID: 0}
-  SkyObjectInfo: {fileID: 0}
-  FiltersMenu: {fileID: 0}
 --- !u!1 &2014526331
 GameObject:
   m_ObjectHideFlags: 0
