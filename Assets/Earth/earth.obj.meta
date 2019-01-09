@@ -10,6 +10,7 @@ ModelImporter:
     2100000: Clouds
     2100002: Earth
     2100004: Atmo
+    2100006: Earth_MATERIAL
     2300000: default
     3300000: default
     4300000: default

@@ -10,7 +10,7 @@ public class HandleOnClick : MonoBehaviour
 	RaycastHit _hit;
 	Ray _ray;
 
-	IEnumerator FetchImage(string url, Image img)
+	public IEnumerator FetchImage(string url, Image img)
 	{
 		using (UnityWebRequest www = UnityWebRequestTexture.GetTexture(url))
 		{

@@ -83,9 +83,11 @@ public class PositionObjects : MonoBehaviour
 
 							SphericalToCartesianFromPosition(out x, out y, out z, Constants.MeanHeading, position);
 
-							GameObject obj = Instantiate(planet, new Vector3(x, y, z), Quaternion.identity);
+							GameObject tmpPlanet = GameObject.Find(majorObject.name);
+							var obj = Instantiate(tmpPlanet != null ? tmpPlanet : planet, new Vector3(x, y, z), Quaternion.identity);
 
 							obj.name = majorObject.name;
+							if (tmpPlanet != null) tmpPlanet.SetActive(false);
 						}
 
 						break;
@@ -112,9 +114,12 @@ public class PositionObjects : MonoBehaviour
 
 							SphericalToCartesianFromPosition(out x, out y, out z, Constants.MeanHeading, position);
 
-							GameObject obj = Instantiate(moon, new Vector3(x, y, z), Quaternion.identity);
+							GameObject tmpMoon = GameObject.Find(majorObject.name);
+							var obj = Instantiate(tmpMoon != null ? tmpMoon : moon, new Vector3(x, y, z), Quaternion.identity);
 
 							obj.name = majorObject.name;
+
+							if (tmpMoon != null) tmpMoon.SetActive(false);
 						}
 						break;
 					}
@@ -134,9 +139,12 @@ public class PositionObjects : MonoBehaviour
 
 							SphericalToCartesianFromPosition(out x, out y, out z, Constants.MeanHeading, position);
 
-							GameObject obj = Instantiate(moon, new Vector3(x, y, z), Quaternion.identity);
+							GameObject tmpPlanet = GameObject.Find(majorObject.name);
+							var obj = Instantiate(tmpPlanet != null ? tmpPlanet : moon, new Vector3(x, y, z), Quaternion.identity);
 
 							obj.name = majorObject.name;
+
+							if (tmpPlanet != null) tmpPlanet.SetActive(false);
 						}
 						break;
 					}
@@ -153,9 +161,11 @@ public class PositionObjects : MonoBehaviour
 
 							SphericalToCartesianFromPosition(out x, out y, out z, Constants.MeanHeading, position);
 
-							GameObject obj = Instantiate(star, new Vector3(x, y, z), Quaternion.identity);
+							GameObject tmpSun = GameObject.Find(majorObject.name);
+							var obj = Instantiate(tmpSun != null ? tmpSun : star, new Vector3(x, y, z), Quaternion.identity);
 
 							obj.name = majorObject.name;
+							//if (tmpSun != null) tmpSun.SetActive(false);
 						}
 
 

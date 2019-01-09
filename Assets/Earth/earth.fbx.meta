@@ -19,12 +19,15 @@ ModelImporter:
     2100000: Clouds
     2100002: Earth
     2100004: Atmo
+    2100006: Earth_MATERIAL
     2300000: Atmo
     2300002: Clouds
     2300004: Earth
+    2300006: //RootNode
     3300000: Atmo
     3300002: Clouds
     3300004: Earth
+    3300006: //RootNode
     4300000: Clouds
     4300002: Earth
     4300004: Atmo
